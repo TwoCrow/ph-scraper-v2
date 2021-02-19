@@ -1,0 +1,29 @@
+Neurology
+Total Diagnoses: 31 | Serious: 18 | Fatal: 6
+
+Deciding Exams:
+Gonioscopy: 3
+Microbial cultivation: 3
+ELISA testing: 1
+CT: 4
+Biopsy - testing: 1
+MRI: 6
+Skin allergy test: 1
+Angiography: 2
+CSF analysis: 5
+Ophthalmoscopy: 1
+PCR - testing: 2
+Physical examination: 1
+Evaluation: 1
+
+Urgent Exams:
+ELISA testing: 1
+Physical examination: 5
+CT: 9
+Interview: 7
+Blood pressure measurement : 5
+CSF analysis: 4
+Heart monitoring: 7
+PCR - testing: 1
+MRI: 1
+Urgent Echo: 1

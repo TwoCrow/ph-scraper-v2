@@ -1,0 +1,201 @@
+triage in reception
+abdominal palpation
+angiography
+audiometry
+microbial sampling
+microbial cultivation
+a barium swallow
+a basic visual test
+biopsy sampling
+biopsy testing
+blood pressure measurement
+a blood draw
+a blood test
+CBC sampling
+CBC testing
+ICU blood analysis
+an urgent echocardiogram
+a CRP test
+a CT scan
+CT enterography
+an ear examination
+an ECG
+an EEG
+an echocardiogram
+an EMG
+an evaluation
+FAST
+elastase sampling
+elastase testing
+mycologic sampling
+fungal cultivation
+gastroscopy
+gonioscopy
+heart monitoring
+chest auscultation
+laryngoscopy
+an MRI scan
+a nasal cavity inspection
+neck palpation
+neurological testing
+ophthalmoscopy
+an oral cavity inspection
+PCR sampling
+PCR testing
+perimetry
+peritoneal fluid analysis sampling
+peritoneal fluid analysis testing
+a physical examination
+an interview
+serologic sampling
+serologic testing
+a skin allergy test
+speech listening
+CSF sampling
+CSF analysis
+spirometry
+stool collecting
+stool analysis
+a sweat chloride test
+temperature measurement
+thorax percussion
+tonometry
+transient elastography
+post-surgical blood control
+urine analysis sampling
+urine analysis testing
+USG
+a back X-ray
+a head X-ray
+a lower limb X-ray
+a chest X-ray
+an upper limb X-ray
+differential diagnosis
+RT-PCR sampling
+RT-PCR testing
+ELISA sampling
+ELISA testing
+pulse oximetry
+catecholamine blood sampling
+a catecholamine blood test
+CA blood sampling
+a CA blood test
+a colonoscopy
+urine antigen screen sampling
+urine antigen screen test
+a bone marrow biopsy sample
+a bone marrow biopsy test
+a flow cytometry sample
+a flow cytometry test
+CBC sampling
+a blood smear sample
+a blood smear test
+a liver function test sampling
+a liver function test
+F.I.S.H. sampling
+F.I.S.H. test
+in vitro staining sampling
+an in vitro staining test
+a mammogram
+a fine needle aspiration sample
+a fine needle aspiration test
+an electron microscopy sample
+an electron microscopy test
+a pelvic exam
+a digital rectal exam (DRE)
+a comprehensive mineral panel sampling
+a comprehensive mineral panel test
+a lymph node biopsy sample
+a lymph node biopsy test
+a colonoscopy biopsy sample
+a colonoscopy biopsy testing
+a breast examination
+pelvic sonography
+Pap smear sampling
+Pap smear testing
+OGTT sampling
+OGTT testing
+scintigraphy
+ELISA
+an ELISA test
+a laryngoscopy
+an ear examination
+sputum sampling 
+a sputum culture
+a bronchoalveolar lavage
+a bronchoalveolar lavage test
+arthrocentesis
+a arthrocentesis test
+laryngoscopy at ENT
+an ear examination at ENT
+audiometry at ENT
+an audiogram at ENT
+polysomnograph
+a skin allergy test at ENT
+sputum sampling
+a sputum culture
+a tryptase test
+a tryptase test analysis
+a histamine test
+a histamine test analysis
+a gynecological examination
+a breast examination
+pelvic sonography
+mammography
+VDRL-TPHA sampling
+VDRL-TPHA testing
+Pap smear sampling
+a Pap smear test
+OGTT sampling
+an OGTT test
+catecholamine blood sampling
+a catecholamine blood test
+CA blood sampling
+CA blood test
+a colonoscopy
+urine antigen screen sampling
+a urine antigen screen test
+bone marrow biopsy sample
+a bone marrow biopsy test
+flow cytometry sample
+a flow cytometry test
+CBC sampling
+blood smear sample
+a blood smear test
+liver function test sampling
+a liver function test
+F.I.S.H. sampling
+a F.I.S.H. test
+in vitro staining sampling
+a in vitro staining test
+a mammogram
+a fine needle aspiration sample
+a fine needle aspiration test
+an electron microscopy sample
+a electron microscopy test
+a pelvic exam
+digital rectal exam (DRE)
+a mineral panel sampling
+a mineral panel test
+lymph node biopsy sampling
+a lymph node biopsy test
+(obsolete) test removed
+(obsolete) test removed
+(obsolete) test removed
+(obsolete) test removed
+(obsolete) test removed
+(obsolete) test removed
+colonoscopy biopsy sampling
+a colonoscopy biopsy test
+liver biopsy sampling
+a liver biopsy test
+genital screening
+genital screening analysis
+a genital swab
+genital swab analysis
+semen collection
+semen collection analysis
+a groin examination
+an inguinal orchiectomy
+testing the obtained testicle in inguinal orchiectomy
+testis palpation

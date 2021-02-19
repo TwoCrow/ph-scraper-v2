@@ -1,0 +1,1054 @@
+<Database>
+	
+	<!-- 
+	MAIN SYMPTOM TEMPLATE - Change all XXCHANGEXX
+	<GameDBSymptom ID="XXCHANGEXX">
+        <DescriptionLocID>XXCHANGEXX</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>XXCHANGEXX</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>XXCHANGEXX</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>XXCHANGEXX</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>XXCHANGEXX</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	-->
+	
+	<!-- <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef> 
+	     <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+          If your treatment is set to require hospitalisation, you must include the above required treatment in your diagnosis treatment list (game will freeze if you dont) 
+	      Do not include it in your main symptom treatments.
+	-->
+	
+	    <GameDBSymptom ID="SYM_JM_NASAL_POLYPS">
+        <DescriptionLocID>SYM_JM_NASAL_POLYPS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility> 
+	
+        <Examinations>
+            <ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OTOR_FESS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1595</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON008_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON008_SMALL</CustomIconSmallAssetRef>
+		
+	  </GameDBSymptom>
+		 
+		<GameDBSymptom ID="SYM_JM_STAPHY">
+        <DescriptionLocID>SYM_JM_STAPHY_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+
+	
+	    <!-- BACTERIA_CULTIVATION_SAMPLING (Patient's Side) -->
+	
+        <Examinations>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON010_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON010_SMALL</CustomIconSmallAssetRef>
+		
+	     </GameDBSymptom>
+		 
+		 <GameDBSymptom ID="SYM_JM_COXSACK">
+        <DescriptionLocID>SYM_JM_COXSACK_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+	    <!-- STOOL_ANALYSIS_SAMPLING 
+		     SEROLOGY_SAMPLING
+		(Patient's Side) -->
+		
+        <Examinations>
+            <ExaminationRef>EXM_STOOL_ANALYSIS_TESTING</ExaminationRef>
+			<ExaminationRef>EXM_SEROLOGY_TESTING_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_REST</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1415</IconIndex>
+		
+	     </GameDBSymptom>
+		 
+	 <GameDBSymptom ID="SYM_JM_NASAL_OBSTRUCTION">
+        <DescriptionLocID>SYM_JM_NASAL_OBSTRUCTION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+		    <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_SALINE_NASAL_SPRAY</TreatmentRef>
+			<TreatmentRef>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1391</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_GERD_SUSPECTED">
+        <DescriptionLocID>SYM_JM_GERD_SUSPECTED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_ANTACIDS</TreatmentRef>
+			<TreatmentRef>TRT_PROTON_PUMP_INHIBITORS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1367</IconIndex>
+		<CustomIconBigAssetRef>ASSET_OR_DIA_ICON002_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON002_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+
+	<GameDBSymptom ID="SYM_JM_OSA_FINDINGS">
+        <DescriptionLocID>SYM_JM_OSA_FINDINGS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_JM_SLEEP_STUDY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CPAP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1319</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_M_RUPTURED_EAR_DRUM">
+        <DescriptionLocID>SYM_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+		
+        <PatientMobility>MOBILE</PatientMobility>		
+        <Examinations>
+		    <ExaminationRef>EXM_JM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_REST</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1409</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_S_RUPTURED_EAR_DRUM">
+        <DescriptionLocID>SYM_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>	
+		
+		<RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>0.1</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_SEPTIC_SHOCK</CollapseSymptomRef>
+		
+		<PatientMobility>MOBILE</PatientMobility>		
+        <Examinations>
+		    <ExaminationRef>EXM_JM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+		    <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+            <TreatmentRef>TRT_OTOR_TYPT</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1409</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_NA_RH">
+        <DescriptionLocID>SYM_JM_NA_RH_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_JM_SKIN_INJECTION_TEST</ExaminationRef>
+			<ExaminationRef>EXM_SKIN_INJECTION_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</TreatmentRef>
+			<TreatmentRef>TRT_JM_SALINE_NASAL_SPRAY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1041</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_EAR_INFECTED">
+        <DescriptionLocID>SYM_JM_EAR_INFECTED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_JM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1409</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_FLUID_IN_MIDDLE_EAR">
+        <DescriptionLocID>SYM_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+            <ExaminationRef>EXM_JM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OTOR_ADNO</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		
+        <IconIndex>1183</IconIndex>
+		
+    </GameDBSymptom>
+	
+    <GameDBSymptom ID="SYM_JM_BLUNT_LARYNX_CONTUSION">
+        <DescriptionLocID>SYM_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>0.1</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
+	
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+		    <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+            <TreatmentRef>TRT_JM_INTUBATION</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON001_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON001_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_BLUNT_LARYNX_LACERATION">
+        <DescriptionLocID>SYM_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+		
+		<RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>0.5</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
+	
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+		    <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+			<TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
+            <TreatmentRef>TRT_OTOR_LOTS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON002_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON002_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_ASN_CONFIRM">
+        <DescriptionLocID>SYM_JM_ASN_CONFIRM_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_JM_SKIN_INJECTION_TEST</ExaminationRef>
+			<ExaminationRef>EXM_SKIN_INJECTION_TEST</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+			<TreatmentRef>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1041</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_ENS_FINDINGS">
+        <DescriptionLocID>SYM_JM_ENS_FINDINGS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_SALINE_NASAL_SPRAY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1041</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_SEVERE_MENIERES">
+        <DescriptionLocID>SYM_JM_SEVERE_MENIERES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OTOR_VNS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1525</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_HPV_FOUND">
+        <DescriptionLocID>SYM_JM_HPV_FOUND_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+	    <!-- BIOPSY_SAMPLING (Patient's Side) -->
+	
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments> 
+		    <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+            <TreatmentRef>TRT_OTOR_PRS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1415</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON005_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON005_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_VCN">
+        <DescriptionLocID>SYM_JM_VCN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_OTOR_LARYNGOSCOPY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_VOCAL_THERAPY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+	    <CustomIconBigAssetRef>ASSET_OR_SYM_ICON006_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON006_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+    <GameDBSymptom ID="SYM_JM_FUNGAL_INFECTION_OF_SINUS">
+        <DescriptionLocID>SYM_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+		<!-- JM_SPUTUM_CULTURE_SAMPLING (Patient's Side) -->
+		
+        <Examinations>
+            <ExaminationRef>EXM_JM_SPUTUM_CULTURE_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIMYCOTICS</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_FESS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1361</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_CHRONIC_SIA">
+        <DescriptionLocID>SYM_JM_CHRONIC_SIA</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_X_RAY_HEAD</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_MASSAGE</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1189</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_ACUTE_S_SIA">
+        <DescriptionLocID>SYM_JM_ACUTE_S_SIA</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations><!-- BACTERIA_CULTIVATION_SAMPLING (Patient's Side) -->
+		
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1189</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_C_DIPHTHERIAE">
+        <DescriptionLocID>SYM_JM_C_DIPHTHERIAE</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+	    <RiskOfCollapseStartHours>0</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>0.5</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_DYSPNEA</CollapseSymptomRef>
+	
+	    <!-- BACTERIA_CULTIVATION_SAMPLING (Patient's Side) -->
+	
+        <Examinations>
+            <ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON003_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON003_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_LARYNGEAL_PARALYSIS">
+        <DescriptionLocID>SYM_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_OTOR_LARYNGOSCOPY</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_VOCAL_THERAPY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_NERVE_DECOM_SURGERY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON016_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON016_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_SQUAMOUS_CELL_THROAT">
+        <DescriptionLocID>SYM_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
+	
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHEMOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_NDS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON017_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON017_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_ADENOCARCINOMA_THROAT">
+        <DescriptionLocID>SYM_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
+	
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHEMOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_NDS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON027_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_SYM_ICON027_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_CHRONIC_PHARYNGITIS">
+        <DescriptionLocID>SYM_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+			<TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1043</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_BAROTRAUMA">
+        <DescriptionLocID>SYM_JM_BAROTRAUMA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_JM_CHEWING_GUM_OR_YAWN</TreatmentRef>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>2150</IconIndex>
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON018_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_SYM_ICON018_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_SEVERED_EAR">
+        <DescriptionLocID>SYM_JM_SEVERED_EAR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+		<Treatments>
+		    <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_ERCS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>2150</IconIndex>
+		<CustomIconBigAssetRef>ASSET_OR_DIA_ICON006_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON006_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_FOREIGN_OBJECT_IN_EAR">
+        <DescriptionLocID>SYM_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_JM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
+        </Treatments>
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>2150</IconIndex>
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON020_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_SYM_ICON020_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_VESTIBULAR_NEURITIS">
+        <DescriptionLocID>SYM_JM_VESTIBULAR_NEURITIS_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIHISTAMINES</TreatmentRef>
+			<TreatmentRef>TRT_EXERCISE</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON021_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_SYM_ICON021_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_DEVIATED_NASAL_SEPTUM">
+        <DescriptionLocID>SYM_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_SPTP</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON022_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_SYM_ICON022_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_VESTIBULAR_TUMOR">
+        <DescriptionLocID>SYM_JM_VESTIBULAR_TUMOR_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_CT</ExaminationRef>
+        </Examinations>
+        <Treatments>
+		    <TreatmentRef>TRT_JM_ACTIVE_MONITOR</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON021_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_SYM_ICON021_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_FACE_LACERATION">
+        <DescriptionLocID>SYM_JM_FACE_LACERATION_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+		
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+        <RiskOfCollapseEndHours>3</RiskOfCollapseEndHours>
+        <CollapseSymptomRef>SYM_HYPOVOLEMIC_SHOCK</CollapseSymptomRef>
+	
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+		    <TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef> 
+			<TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
+            <TreatmentRef>TRT_OTOR_FRS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_SYM_ICON031_LARGE</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_OR_SYM_ICON031_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_SWOLLEN_NASAL_TURBINATE">
+        <DescriptionLocID>SYM_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+			<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1041</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_DYSOSMIA_CONFIRMED">
+        <DescriptionLocID>SYM_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+        <Examinations>
+			<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_NASAL_DROPS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1391</IconIndex>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_SQUAMOUS_CELL_NOSE">
+        <DescriptionLocID>SYM_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
+	
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHEMOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_FESS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_DIA_ICON004_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON004_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_ADENOCARCINOMA_NOSE">
+        <DescriptionLocID>SYM_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
+	
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHEMOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_FESS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_DIA_ICON004_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON004_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_MELANOMA_NOSE">
+        <DescriptionLocID>SYM_JM_MELANOMA_NOSE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+	
+	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
+	
+        <Examinations>
+            <ExaminationRef>EXM_BIOPSY_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_CHEMOTHERAPY</TreatmentRef>
+			<TreatmentRef>TRT_HOSPITALIZATION_HIGH_PRIORITY</TreatmentRef>
+			<TreatmentRef>TRT_OTOR_FESS</TreatmentRef>
+        </Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+		
+        <IconIndex>1343</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_OR_DIA_ICON004_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON004_SMALL</CustomIconSmallAssetRef>
+		
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_EAR_WAX_BLOCKAGE">
+        <DescriptionLocID>SYM_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_JM_EAR_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1525</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_EAR_WAX_REMOVAL">
+        <DescriptionLocID>SYM_JM_EAR_WAX_REMOVAL_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1635</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_BPPV">
+        <DescriptionLocID>SYM_JM_BPPV_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1315</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_PERICHONDRIAL_HEMATOMA">
+        <DescriptionLocID>SYM_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_OTOR_INCISION_AND_DRAINAGE</TreatmentRef>
+        </Treatments>
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1635</IconIndex>
+		<CustomIconBigAssetRef>ASSET_OR_DIA_ICON006_LARGE</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_OR_DIA_ICON006_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_JM_FOREIGN_OBJECT_IN_NOSE">
+        <DescriptionLocID>SYM_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+			<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
+        </Treatments>
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>true</IsMainSymptom>
+        <IconIndex>1391</IconIndex>
+    </GameDBSymptom>
+	
+</Database>

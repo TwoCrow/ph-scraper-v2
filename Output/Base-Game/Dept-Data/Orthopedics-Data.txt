@@ -1,0 +1,19 @@
+Orthopedics
+Total Diagnoses: 51 | Serious: 11 | Fatal: 7
+
+Deciding Exams:
+MRI: 12
+X-ray lower limb: 11
+X-ray chest: 1
+CT: 4
+X-ray upper limb: 9
+EMG: 3
+Physical examination: 4
+USG: 3
+X-ray head: 2
+Serologic testing: 1
+X-ray back: 1
+
+Urgent Exams:
+Physical examination: 3
+Interview: 14

@@ -1,0 +1,745 @@
+Total Treatments: 184
+
+### A1At replacement
+Replacement of the protein Alpha-1 antitrypsin by the intravenous route. 
++ Required room: Offices / Diagnostic units at General Surgery dpt, Internal Medicine dpt / ICU dpt / Regular wards / High dependency units
+
+### Abdominal surgery
+Surgery of the abdomen. 
++ Required room: Operating room at General Surgery dpt + ICU
+
+### ACE inhibitor
+A drug used in the treatment of hypertension. 
++ Required room: Any office / Diagnostic unit at all departments except Emergency and Infectious diseases dpt
+
+### Analgesics
+Drugs, mostly in pill form, used to relieve pain. 
++ Required room: Any office / Diagnostic unit
+
+### Antacids
+Antacids are substances that neutralize stomach acid, used to relieve heartburn, indigestion or reflux. 
++ Required room: Office / Diagnostic unit at General Surgery dpt
+
+### Anti Inflammatory Cream
+Non-steroidal anti-inflammatory cream used to treat various inflammations and also relieve from pain or swelling. 
++ Required room: Any office / Diagnostic unit at any department except Neurology dpt
+
+### Anti seizures medicine
+Medicine used to treat various types and forms of seizures. 
++ Required room: Any diagnostic unit / ICU
+
+### Antiarrhythmics
+Drugs usually given intravenously or as pills to suppress abnormal rhythms of the heart. 
++ Required room: ICU /  Any office / Diagnostic unit at Emergency dpt / General Surgery dpt / Internal Medicine dpt / Neurology dpt / Traumatology dpt
+
+### Antibiotic ointment
+Special ointment applied to infected areas on the skin. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at Neurology dpt
+
+### Antibiotics
+Drugs in various forms used to treat various bacterial infections. 
++ Required room: Any office / Diagnostic unit
+
+### Anticholinergics
+Most commonly used medication in the treatment of excessive sweating. 
++ Required room: Doctor's office / Observation room / ICU / Office / Diagnostic unit at Internal Medicine dpt / Cardiology dpt / Neurology dpt / DID / Traumatology dpt
+
+### Anticoagulants
+Drugs preventing blood platelets to stick to each other and forming clots. 
++ Required room: ICU / Office / Diagnostic unit at Cardiology dpt
+
+### Antidepressants
+Drugs used to treat depressive disorders. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at General Surgery dpt / Neurology dpt
+
+### Antidiarrheals
+Drugs that stop diarrhea, relieve the symptoms, but don't eliminate the cause. They usually work by decreasing bowel movement. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at General Surgery dpt / Internal Medicine dpt / DID
+
+### Antifungal ointment
+Antifungal ointment with almost no side effects, providing long-term cure of fungal infections. 
++ Required room: Doctor's office / Observation room
+
+### Antihelmintics
+Pills that are used in the treatment of tapeworm infections. 
++ Required room: Doctor's office / Observation room
+
+### Antihemorrhagics
+Drugs used to stop bleedings. 
++ Required room: Any office / Diagnostic unit
+
+### Antihistamines
+Allergy treating drugs, opposing the activity of histamine receptors, that are responsible for the symptoms of allergy. 
++ Required room: Doctor's office / Observation room / ICU / Office/Diagnostic unit at General Surgery dpt / Internal Medicine dpt / Neurology dpt / Traumatology dpt
+
+### Antihypertensive medication
+Drugs used to treat hypertension - high blood pressure. 
++ Required room: Doctor's office / Observation room / ICU / Office/Diagnostic unit at General Surgery dpt / Cardiology dpt / Neurology dpt
+
+### Antimalarial medication
+Combination of various antibiotics, medication and supportive substances that fights malaria and malaria-related diseases. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Antimycotics
+Drugs with an antifungal effect. Antimycotics are used to treat fungal infections caused by a wide range of fungal species. 
++ Required room: Doctor's office / Observation room / ICU / Office/Diagnostic unit at Internal Medicine dpt
+
+### Antiparasitic drugs
+Drugs that are used in treatment of various parasite infections. 
++ Required room: Doctor's office / Observation room / Trauma center / Office/Diagnostic unit at Internal Medicine dpt / DID
+
+### Antipsychotics
+Medication used in the treatment of various psychiatric disorders. 
++ Required room: ICU / Office/Diagnostic unit at Internal Medicine dpt / Neurology dpt
+
+### Antipyretics
+Drugs used to lower the temperature due to fever. 
++ Required room: Any office / Diagnostic unit
+
+### Antisense therapy
+Antisense therapy is a form of treatment for genetic disorders or infections - it is possible to synthesize a strand of RNA/DNA that will turn off a specific gene. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Antiseptics
+Substances generally in liquid or aerosol form with antimicrobial effect, reducing the possibility of infection. 
++ Required room: Any office / Diagnostic unit
+
+### Antithyroids
+Also called thionamides are drugs used in the treatment of hyperthyroidism by blocking the formation of thyroid hormone. 
++ Required room: ICU / Office/Diagnostic unit at General Surgery dpt
+
+### Antivenom
+A treatment using antibodies that bind to and neutralize a specific venom. 
++ Required room: Office/Diagnostic unit at Traumatology dpt / ICU
+
+### Antivirals
+Medication that inhibits viral infections. Unlike antibiotics, antiviral drugs do not directly destroy the pathogen. 
++ Required room: Doctor's office / Observation room / ICU / Office/Diagnostic unit ar General Surgery dpt / Neurology dpt / DID
+
+### Anxiolytics
+Medication that inhibits anxiety. 
++ Required room: Any office / Diagnostic unit at any department except Orthopaedy dpt
+
+### Arm cast
+Protective shell from plaster and bandages to protect fractured limb or joints. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Orthopaedy dpt
+
+### Arm orthosis
+Orthosis that helps control, guide and immobilize certain joints and limbs. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Orthopaedy dpt
+
+### Artificial ventilation
+Procedure to restore or help with respiration by exchange of the gases by the respiratory system. It consist of an endotracheal intubation of the patient and connecting it to mechanical ventilation. 
++ Required room: Any office / Diagnostic unit
+
+### Azithromycin
+An antibiotic used to fight various bacterial infections. 
++ Required room: DID Office / Diagnostic unit at DID / ICU
+
+### Band ligation
+Endoscopic treatment to ensure that varices in the oesophagus will not bleed. 
++ Required room: Operating room
+
+### Bandage
+A long narrow cloth with a broad spectrum of use. 
++ Required room: Any office / Diagnostic unit / Observation room / Trauma center / ICU 
+
+### B-complex supplement
+Supplement of B-vitamins. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at Internal Medicine dpt
+
+### Beta blockers
+Medication that is used to treat abnormal heart rhythm,high blood pressure, heart failure and tremor. 
++ Required room: Any office / diagnostic unit at anz department except Orthopaedy dpt
+
+### Blood component therapy
+Specialized type of blood transfusion that could consists of whole blood, or individual components including packed red blood cells, fresh frozen plasma, platelets, cryoprecipitate, granulocyte components and rhogam. 
++ Required room: Any Diagnostic unit / ICU / ward
+
+### Blood transfusion
+Procedure of receiving portions of blood due to serious blood loss, diseases or systemic damage to blood cells. 
++ Required room: Any office / Diagnostic unit / Ward / Unit
+
+### Bone Strengthening pills
+Supportive drugs used to improve the strength of the bones. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at General Surgery dpt / Internal Medicine dpt / Orthopaedy dpt
+
+### Boston brace
+Is a type of back orthosis often used for scoliosis. 
++ Required room: Office / Diagnostic unit at Orthopaedy dpt
+
+### Botulinum antitoxin
+Special antibody with the ability to neutralize toxins produced by Clostridium botulinum. 
++ Required room: Diagnostic unit at Neurology dpt / ICU
+
+### Bowel resection
+Surgical procedure that removes a small part of large intestine. 
++ Required room: Operating room at Traumatology + ICU
+
+### Bronchodilators
+Medication that dilates bronchi and bronchioles, decreasing the airways resistance, and therefore increasing the airflow to the lungs. 
++ Required room: Any office / Diagnostic unit / ICU except General Surgery dpt
+
+### Burn management
+Medical procedure to cure various types of burns. 
++ Required room: Office/Diagnostic unit/ Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency
+
+### Burn unit hospitalization
+Hospitalize the patient at a burn unit with special care.
++ Required room: Burn unit
+
+### Cardiovascular surgery
+Cardiovascular surgery is often used for treatment of various heart disease. 
++ Required room: Operating room at Cardiology dpt
+
+### Chelation therapy
+Medical procedure used to remove toxic metals (e.g. mercury) from the body. 
++ Required room: ICU / Regular ward / HDU / Office/Diagnostic unit at Internal Medicine dpt
+
+### Chloramphenicol
+A special antibiotic used in wide spectrum of bacterial infections. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Ciprofloxacin
+An antibiotic used to treat a number of bacterial infections. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Closed reduction
+Procedure consisting of gentle maneuvers to help bones and joints to get back to proper position. 
++ Required room: Office / Diagnostic unit at Orthopaedy dpt.
+
+### Complex antiviral therapy
+Complex antiviral therapy is used in cases where there are no targeted antivirals available. 
++ Required room: DID Office / Diagnostic unit + Isolation unit at DID / ICU
+
+### Compression wraps
+Elastic bandages. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Orthopaedy dpt
+
+### Concentrated oxygen
+Therapy based on breathing concentrated oxygen. 
++ Required room: Office/Diagnostic unit / Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency
+
+### Corticosteroid injections
+Synthetic steroid hormones is used to treat inflammation, and used on a broad spectrum of diseases. 
++ Required room: ICU / Office/Diagnostic unit at Orthopaedy dpt
+
+### Corticosteroids
+Synthetic steroid hormones is used to treat inflammation, and used on a broad spectrum of diseases. 
++ Required room: Any office / Diagnostic unit
+
+### Cough suppressants
+Drugs used to suppress dry cough, but without eliminating the cause. 
++ Required room: Any office / Diagnostic unit except General Surgery dpt
+
+### Craniotomy
+Neurological surgery to get access to the brain. 
++ Required room: Operating room at Neurology dpt
+
+### Debridement
+Medical removal of death tissue. 
++ Required room: Office/Diagnostic unit / Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency
+
+### Defibrillation
+Procedure to deliver doses of electric current to the heart to re-establish normal heart rhythm. 
++ Required room: Observation room / Trauma center / ICU / Any ward / Any Diagnostic unit 
++ Required equipment: Defibrillator
+
+### Desmopressin
+Synthetic hormone that has an anti-diuretic effect, and can help stimulate factors responsible for the blood clotting process, for patient with genetic blood clotting disorders. 
++ Required room: Doctor's office / Observation room / ICU / Office/Diagnostic unit at Internal Medicine dpt
+
+### Dialysis
+Is a process of removing the waste products from the cells metabolism from the bloodstream, when the kidneys are not able to maintain this function. 
++ Required room: Diagnostic unit at General Surgery dpt 
++ Required equipment: Dialysis machine
+
+### Diet modification
+Advice or prescription about daily diet, change of consummated food, beverages, etc. 
++ Required room: Any office / Diagnostic unit
+
+### Diuretics
+Medications that lower the amount of sodium and water in the body. 
++ Required room: ICU / Office/Diagnostic unit at General Surgery dpt / Internal Medicine dpt / Cardiology / Neurology
+
+### Doxycycline
+Special tetracycline antibiotic treatment used to fight specific bacteria and parasites. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Ear drops
+Medicine in liquid drops that treats specific symptoms in the human ear. Can contain various healing substances including antibiotics. Office / Diagnostic unit at General Surgery dpt / Internal Medicine dpt / Neurology dpt
++ 
+
+### Elbow pad
+Protective padded gear. 
++ Required room: Office / Diagnostic unit at Orthopaedy dpt
+
+### Emergency care
+Emergency procedure to make sure the patient is stabilized by taking care of any potential wounds, lacerations, injuries or traumas, and to stop any active bleeding. \n\nAny office / Diagnostic unit / ICU
++ 
+
+### EMS
+Electrical Muscle Stimulation is a procedure used in various injuries or diseases that affect the musculo-skeletal system. 
++ Required room: Diagnostic unit at Orthopaedy dpt. 
++ Required equipment: EMG
+
+### Endoscopic cauterization
+Endoscopic cauterization is a surgical procedure where an electric current is used to burn/cautherize an area in order to open or close it off. It is commonly used to stop bleedings during surgeries. 
++ Required room: Operating room at General Surgery dpt
+
+### Endoscopic surgery
+A minimal invasive surgery with a set of endoscopic instruments. 
++ Required room: Operating room at Orthopaedy dpt
+
+### Ethanol treatment
+Ethanol is very effective in the treatment of methanol poisoning. 
++ Required room: ICU / Doctor's office / Trauma center / Observation room / Office/Diagnostic unit / Regular ward / High dependency unit at Internal Medicine dpt
+
+### Exercise
+Low-impact aerobic exercise, strengthening exercises, or any support exercises. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at Orthopaedy dpt / Neurology dpt
+
+### Experimental serum
+Experimental intravenous medication serum that treats ebola hemorrhagic fever. 
++ Required room: DID Office / Diagnostic unit + Isolation unit at DID / ICU
+
+### Eye drops
+Medicine in liquid a liquid state that treats specific symptoms or diseases in the eye. Either contain a antibacterial agent, anti-histamines or drugs to decrease the blood pressure inside the eye.
++ Required room: Doctor's office / Observation room / ICU / Office/Diagnostic unit at any department except Orthopaedy dpt
+
+### Eye surgery
+Delicate surgery performed on the patient's eye. 
++ Required room: Operating room at Neurology dpt
+
+### Fluconazole
+Special antifungal medicine used to treat various diseases caused by fungal organisms. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Foot cream
+A lotion, cream, or ointment applied to the patient's feet in the treatment of various diseases and symptoms. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at Orthopaedy dpt
+
+### Foreign object removal
+Removal of a foreign object present in the wound. 
++ Required room: Doctor's office / Observation / Trauma center / ICU / Office/Diagnostic unit at Traumatology dpt
+
+### Fracture neurosurgery - head
+Neurologic head fracture surgery specializes to completely re-align and repair the fractured bones that threaten patient's life. 
++ Required room: Operating room at Neurology dpt
+
+### Fracture surgery - Arm
+Surgery on the patient's arm to completely re-align and repair the fractured bone. 
++ Required room: Operating room at Orthopaedy dpt
+
+### Fracture surgery - Head
+TRT_FRACTURE_SURGERY_HEAD_OT
++ 
+
+### Fracture surgery - Leg
+Surgery on the patient's leg to completely re-align and repair the fractured bone. 
++ Required room: Operating room at Orthopaedy dpt
+
+### Gastric perforation repair
+Surgical procedure to seal perforations in the stomach. 
++ Required room: Operating room at Traumatology + ICU
+
+### HDU hospitalization
+Hospitalize the patient at a high dependency unit (HDU). 
++ Required room: High dependency unit
+
+### Hepatoplasty
+Surgical procedure that treats liver or its part. 
++ Required room: Operating room at Traumatology + ICU
+
+### Hip replacement surgery
+Surgery that replaces a fractured or damaged hip joint with an artificial joint. 
++ Required room: Operating room at Orthopaedy dpt
+
+### Home treatment
+Patient will treat himself at home. No hospitalization is required. 
++ Required room: Any office / Diagnostic unit
+
+### Hydroxyurea
+Special medication that suppresses production of blood cells in bone marrow. 
++ Required room: Diagnostic unit at Internal medicine dpt / ICU
+
+### Ice wrap
+Cold compression wraps are used to calm down painful areas of the body. 
++ Required room: Doctor's office / Trauma center / Observation room / ICU / Office/Diagnostic unit at General Surgery dpt / Orthopaedy dpt
+
+### ICU hospitalization
+Hospitalize the patient at an Intensive Care Unit (ICU). 
++ Required room: ICU
+
+### IM antibiotics
+Intramuscular antibiotics are delivered as an injection into a large muscle. 
++ Required room: DID Office / Diagnostic unit at DID / ICU
+
+### Incision and drainage
+Incision and drainage of an abscesses. 
++ Required room: Any Diagnostic unit / ICU / Observation room / Doctor's office
+
+### Induced coma
+A procedure involving the administration of sedatives to induce a controlled-coma before surgery but also in critically ill patients for the facilitation of healing. 
++ Required room: Operating room
+
+### Insulin therapy
+Medication that lowers the level of blood sugar. 
++ Required room: Office / Diagnostic unit at Internal Medicine dpt.
+
+### Interferon alpha-2b
+Highly specific anti-viral therapy used in treatment of chronic Hepatitis B and C. 
++ Required room: Office / Diagnostic unit at DID / ICU
+
+### Interferon alpha-2b
+Highly specific anti-viral therapy used in treatment of chronic Hepatitis B and C. 
++ Required room: Office / Diagnostic unit at DID / ICU
+
+### Intravenous Ciprofloxacin
+Antibiotic that is used to treat a number of bacterial infections. 
++ Required room: DID Office / Diagnostic unit + Isolation unit at DID / ICU
+
+### Intravenous Doxycycline
+Special tetracycline antibiotic treatment used to fight specific bacteria and parasites. 
++ Required room: DID Office / Diagnostic unit + Isolation unit at DID / ICU
+
+### Iron supplement
+Supplement of iron. 
++ Required room: Doctor's office / Observation room
+
+### Isolation hospitalization
+Hospitalize the patient at an isolation unit to prevent spread of contagious diseases and give them a high level of care.
++ Required room: Isolation ward
+
+### IV antibiotics
+A treatment where antibiotics are delivered by the intravenous (IV) route in order to increase the effectiveness of the treatment. 
++ Required room: Any office / ward / unit
+
+### IV atropine
+The administration of atropine by the intravenous (IV) route in order to increase the effectiveness of the treatment. 
++ Required room: Any office / ward / unit
+
+### IV calcium gluconate
+Intravenous (IV) supplement of calcium gluconate. 
++ Required room: Any office / ward / unit
+
+### IV corticosteroids
+Intravenous administration of corticosteroid medication. 
++ Required room: Any office / ward / unit
+
+### IV immunoglobulin
+A purified blood product containing antibodies delivered by the intravenous (IV) route. 
++ Required room: ICU / Office/Diagnostic unit at Orthopaedy dpt / Neurology dpt / DID
+
+### IV infusion
+A procedure where medication and fluids are delivered intravenously (directly to the bloodstream through a vein). 
++ Required room: Any office / ward / unit
+
+### IV nutrition
+Intravenous nutrition, or parenteral nutrition, is the procedure of feeding the patient by means of administering nutrition directly into the bloodstream, thereby bypassing the usual way through the intestines. The intravenous nutrition contains various important nutrients and is used to ensure proper functioning of the body and preventing malnutrition. 
++ Required room: Any office / ward / unit
+
+### IV passive immunotherapy
+Intravenous doses of specific antibodies targeted against different viral hemorrhagic fevers. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### IV TPA
+Intravenous Tissue plasmogenic activator helps to recover after brain stroke. 
++ Required room: ICU / Office / Diagnostic unit at Cardiology dpt
+
+### Joint surgery - Arm
+Surgery on the patient's arm to completely fix or repair the joint or to reconstruct its ligaments. 
++ Required room: Operating room at Orthopaedy dpt
+
+### Joint surgery - Leg
+Surgery on the patient's leg to completely fix or repair the joint or to reconstruct its ligaments. 
++ Required room: Operating room at Orthopaedy dpt
+
+### Laparoscopic pyeloplasty
+Minimally invasive surgical procedure that treats kidneys. 
++ Required room: Operating room at Traumatology + ICU
+
+### Laparoscopic surgery
+A minimally invasive surgical technique. The surgery is performed by cutting a series of small incisions through which surgical equipment is inserted. 
++ Required room: Operating room at General Surgery dpt
+
+### Leg cast
+Protective shell made from plaster, bandage, and sometimes fiberglass, which immobilises and protects the fractured bone. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Orthopaedy dpt
+
+### Leg orthosis
+An orthosis is a device that immobilises a certain joint or limb, and guides the range of motion. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Orthopaedy dpt
+
+### Life support
+Life support is instituted to help or maintain vital functions during coma. 
++ Required room: ICU / Trauma center
+
+### Liver medication
+Drugs used in the treatment of various diseases affecting the liver. 
++ Required room: ICU / Office / Diagnostic unit at General Surgery dpt
+
+### Lower limb trauma surgery
+TRT_TRAUMA_SURGERY_LEG
++ 
+
+### Mannitol doses
+Mannitol doses are delivered to human body to fight intoxication by ciguatoxin. 
++ Required room: Diagnostic unit at Internal medicine dpt / ICU
+
+### MIEP
+Minimally-invasive endoscopic procedure is used to treat various otorhinolaryngological diseases. 
++ Required room: Special procedures unit 
++ Required equipment: ENT Workstation
+
+### Minocycline
+Special tetracycline antibiotic treatment used to fight specific bacteria and parasites. 
++ Required room: DID Office / Diagnostic unit at DID / ICU
+
+### Mucolytics
+Liquid drugs that help to dissolve and clear mucus from the airways. 
++ Required room: Doctor's office / Observation room / ICU / Office / Diagnostic unit at Internal Medicine dpt / DID
+
+### Nasal drops
+Drugs that that clear the nasal cavity and increase ventilation through the nose. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at Internal Medicine dpt / Cardiology dpt
+
+### Nitazoxanide
+Broad-spectrum antiparasitic and also broad-spectrum antiviral medicine. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Nitrates
+Nitrates relax and widen blood vessels. 
++ Required room: Regular ward / High dependency unit / ICU / Office/Diagnostic unit at Cardiology dpt
+
+### NSAIDs
+Non-steroidal anti-inflammatory drugs (NSAIDs) used to treat various inflammatory conditions and relieve pain. 
++ Required room: Any office / Diagnostic unit
+
+### Numbing ointment
+Ointments that are applied to a certain area (e.g. a sunburn) to numb or relieve pain and irritation. 
++ Required room: Doctor's office / Observation room / Trauma center / Office/Diagnostic unit at Internal medicine dpt / Orthopaedy dpt
+
+### Observation
+Admit the patient for observation of symptoms and diseases. 
++ Required room: Observation room
+
+### Oseltamivir
+Antiviral medicine used to treat and prevent Influenza A and B. 
++ Required room: DID Office / Diagnostic unit + Isolation unit at DID / ICU
+
+### Osteomyelitis surgery
+A surgery that involves removing dead bone tissue, draining and clearing infected bone and restoring blood flow to the area. 
++ Required room: Operating room at Orthopaedy dpt
+
+### Oxygenotherapy
+Supplementation of oxygen to inhaled gas (often delivered through a nasal cathether or a mask covering the mouth and nose). 
++ Required room: Any office / Diagnostic unit
+
+### Pancreaticoplasty
+Surgical procedure that treats the pancreas or its part. 
++ Required room: Operating room at Traumatology + ICU
+
+### Pericardiocentesis
+Procedure used in evacuating excessive fluid or blood from pericardium, relieving the pressure on the heart to make the heart pump more efficiently. 
++ Required room: Operating room at Cardiology dpt
+
+### PERT
+Pancreatic enzyme replacement therapy (PERT) contains a mixture of pancreatic enzymes (e.g. lipase, amylase, and protease). The enzymes assist the digestion of fat, carbohydrates, and proteins and PERT is given to patients that can't produce an adequate amount of enzymes themselves. 
++ Required room: ICU / Trauma center / Observation room / Office/Diagnostic unit at General Surgery dpt
+
+### Plasmapheresis
+A procedure where the patient's plasma is removed and replaced with plasma from a healthy volunteer. 
++ Required room: Diagnostic unit at Neurology dpt. 
++ Required equipment: Dialysis machine
+
+### Platelet transfusion
+Special type of blood transfusion involving the transfusion of platelets (thrombocytes) only. 
++ Required room: Any office / Diagnostic unit
+
+### Pressure bandage
+Bandage applied to a wound or artery in order to stop or diminish a  hemorrhage. 
++ Required room: Any office / Diagnostic unit
+
+### Proliferation therapy
+Injection-based therapy for chronic musculo-skeletal conditions that makes the specific cells grow and proliferate more rapidly. 
++ Required room: Office/Diagnostic unit at Orthopaedy dpt
+
+### Protective dressing
+Bandage protective dressing. 
++ Required room: Office/Diagnostic unit / Burn unit at Traumatology dpt. / ICU / Trauma center at Emergency
+
+### Proton pump inhibitors
+Drugs used to decrease acid production in the stomach in order to treat gastric ulcers or acid reflux. 
++ Required room: ICU / Office / Diagnostic unit at General Surgery dpt
+
+### Pulmonary surgery
+Pulmonary or lung surgery is surgery done to repair or remove parts of damaged lung tissue. 
++ Required room: Operating room at Traumatology + ICU
+
+### Pulmonary surgery
+Pulmonary or lung surgery is surgery done to repair or remove parts of damaged lung tissue. 
++ Required room: Operating room at Traumatology + ICU
+
+### Purgatives
+Purgatives, also called laxatives, are drugs mainly used to treat constipation by increasing the secretion of water to the intestines but also by increasing bowel movements. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at General Surgery dpt / Internal Medicine dpt/ Neurology dpt
+
+### Rabies immunoglobulin
+A fast-acting injection the prevents rabies virus from infecting the patient. Often given preemptively to patients that have been bitten by an animal that might have rabies.
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Rabies immunoglobulin
+A fast-acting injection the prevents rabies virus from infecting the patient. Often given preemptively to patients that have been bitten by an animal that might have rabies.
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Recommendations
+The doctor gives best recommendation to support treatments. 
++ Required room: Any office / Diagnostic unit
+
+### Recommendations
+The doctor gives best recommendation to support treatments. 
++ Required room: Any office / Diagnostic unit
+
+### Regular hospitalization 
+Hospitalize the patient at a regular ward. 
++ Required room: Regular ward
+
+### Rehydration
+Prescription of fluids to increase the amount of fluid and electrolytes in blood stream. Given in order to maintain an adequate blood pressure and function of the organs. 
++ Required room: Any office / Diagnostic unit
+
+### Renal vascular surgery
+Surgery on the veins and arteries of the kidneys. 
++ Required room: Operating room at Cardiology dpt
+
+### Replantation
+Surgical re-attachment of a body part (e.g. a finger or foot). 
++ Required room: Office/Diagnostic unit at Orthopaedy dpt
+
+### Rest
+Prescription aimed at avoiding physical exertion in sick patients that would benefit from resting. 
++ Required room: Any office / Diagnostic unit
+
+### RICE
+The principle of applying 'Rest, Ice, Compression, and Elevation' of a limb affected by a sprain or fracture. 
++ Required room: Any office / Diagnostic unit
+
+### Saline nasal spray
+A nasal spray that rinses nasal cavities and increases ventilation through the nose. 
++ Required room: Doctor's office / Observation room / Office/Diagnostic unit at DID
+
+### Shock wave lithotripsy
+A procedure commonly carried out to break stones lodged in the urethra (the tube connecting a kidney to the bladder). It is non-surgical treatment option using high energy ultrasound shock waves to broke stones into dust, allowing them to pass. 
++ Required room: Sonography unit at General Surgery dpt 
++ Required equipment: Therapy shockwave
+
+### Sleeping drugs
+Drugs that are used as a treatment in patients with trouble falling asleep. 
++ Required room: Any office / Diagnostic unit
+
+### Small bowel resection
+Surgical procedure that removes a part of small intestine. 
++ Required room: Operating room at Traumatology + ICU
+
+### Spasmolytics
+Drugs in liquid or solid pill state that relieve from various types of spasms. 
++ Required room: Any office / Diagnostic unit
+
+### Splenectomy
+Surgical procedure to remove damaged or disrupted spleen. 
++ Required room: Operating room at Traumatology + ICU
+
+### Stapedectomy
+Surgery in which the smallest bone in the middle ear (the stapes) is removed and replaced with an implant. 
++ Required room: Operating room at Internal Medicine dpt
+
+### Steroid cream
+An ointment, lotion, or cream containing corticosteroids (stress hormone) used in the topical treatment of various diseases. 
++ Required room: Any office / Diagnostic unit
+
+### Stomachics
+Drugs that strengthens or stimulates the stomach with broad spectrum of use. 
++ Required room: Any office / Diagnostic unit
+
+### Supportive therapy
+Supportive therapy consists of numerous symptomatic treatments, mainly for viral diseases where no specific treatment exists. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Synthetic thyroid hormones
+Medications used to treat hypothyroidism. They are synthetic, thus they are not derived from animal's thyroid glands and have fewer side effects. 
++ Required room: ICU / Office / Diagnostic unit at General Surgery dpt
+
+### TC hospitalization
+Trauma center (TC) accepts critically ill patients when they arrive at the hospital. 
++ Required room: Trauma center
+
+### Thoracentesis
+Invasive procedure to remove fluid or air from the pleural space. 
++ Required room: Special procedures unit 
++ Required equipment: Thoracentesis device
+
+### Thoracic trauma surgery
+Trauma surgery for patients with acute, life-threatening or potentially life-threatening surgical conditions. 
++ Required room: Operating room at Traumatology + ICU
+
+### Thrombolytics
+Special medications that solves and destroy formed clots in blood stream, which reducing passage of the blood to the organs. 
++ Required room: ICU / Trauma center Office / Diagnostic unit at Cardiology dpt
+
+### Tranquilizers
+Medicine designed for the treatment of anxiety, fear, tension, agitation, and disturbances of the mind. 
++ Required room: Any office / Diagnostic unit
+
+### Trauma fracture surgery - arm
+Traumatology surgical procedure that fixes broken bones. 
++ Required room: Operating room at Traumatology + ICU
+
+### Trauma fracture surgery - leg
+Traumatology surgical procedure that fixes broken bones. 
++ Required room: Operating room at Traumatology + ICU
+
+### Trauma fracture surgery - thorax
+Traumatology surgical procedure that fixes broken bones. 
++ Required room: Operating room at Traumatology + ICU
+
+### Triple therapy treatment
+Special medicine that is indicated for the patients suffering from H. pylori infection or duodenal ulcers and consist of three different antibiotics. 
++ Required room: ICU / Office/Diagnostic unit at General Surgery dpt
+
+### Upper limb trauma surgery
+TRT_TRAUMA_SURGERY_ARM
++ 
+
+### Vancomycin
+An intravenous antibiotic that treats a number of bacterial infections. 
++ Required room: DID Office / Diagnostic unit + Regular ward at DID / ICU
+
+### Vascular surgery
+Surgical procedure to sew and fix damaged arteries. 
++ Required room: Operating room at Traumatology + ICU
+
+### Vasodilators
+Medication that relaxes blood vessels. 
++ Required room: Doctor's office / Observation room / ICU / Office/Diagnostic unit at Cardiology dpt
+
+### Vitamin supplementation
+Supplementation of various vitamins and minerals are taken to restore stability of organism. 
++ Required room: Any office / Diagnostic unit
+
+### vitamin-D supplement
+Supplementation of vitamin D3. 
++ Required room: Office / Diagnostic unit at Orthopaedy dpt.
+
+### VP shunting
+Ventriculoperitoneal Shunting is surgical procedure used to treat increased intracranial pressure. 
++ Required room: Operating room at Neurology dpt
+
+### Warmed IV fluids
+Intravenous fluids warmed up to a temperature of 38-45°C/100-113°F used to manage hypothermia. 
++ Required room: Burn unit at Traumatology dpt. / ICU
+
+### Wound closure
+Procedure to sew muscles and skin. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Orthopaedy dpt / Traumatology dpt
+

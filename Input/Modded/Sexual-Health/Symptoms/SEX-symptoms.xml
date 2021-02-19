@@ -1,0 +1,171 @@
+﻿<Database>
+
+	<!-- Genital Discharge -->
+
+	<GameDBSymptom ID="SYM_SH_GENITAL_DISCHARGE">
+        <DescriptionLocID>SYM_SH_GENITAL_DISCHARGE_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>90</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1169</IconIndex>
+    </GameDBSymptom>
+
+	<!-- Genital Sores -->
+	
+	<GameDBSymptom ID="SYM_SH_GENITAL_SORES">
+        <DescriptionLocID>SYM_SH_GENITAL_SORES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_SH_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>60</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1595</IconIndex>
+    </GameDBSymptom>
+
+	<!-- Vaginal Bleeding -->
+	
+	<GameDBSymptom ID="SYM_SH_VAGINAL_BLEEDING">
+        <DescriptionLocID>SYM_SH_VAGINAL_BLEEDING_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_VB</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_VB_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+	<!-- Sex Pain -->
+	
+	<GameDBSymptom ID="SYM_SH_SEX_PAIN">
+        <DescriptionLocID>SYM_SH_SEX_PAIN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+        <IconIndex>1507</IconIndex>
+    </GameDBSymptom>
+
+	<!-- Testicular Pain -->
+
+	<GameDBSymptom ID="SYM_SH_TESTICULAR_PAIN">
+        <DescriptionLocID>SYM_SH_TESTICULAR_PAIN_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>40</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_TP</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_TP_SMALL</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+
+	<!-- High Semen -->
+
+	<GameDBSymptom ID="SYM_SH_EXCESS_SEMEN">
+		<DescriptionLocID>SYM_SH_EXCESS_SEMEN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		</Examinations>
+		<Treatments>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_HYPERS</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_HYPERS_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<!-- Low Semen -->
+
+	<GameDBSymptom ID="SYM_SH_LOW_SEMEN">
+		<DescriptionLocID>SYM_SH_LOW_SEMEN_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>None</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+		</Examinations>
+		<Treatments>
+		</Treatments>
+		<ShameLevel>10</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_HYPOS</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_HYPOS_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+
+	<!-- Phimosis -->
+
+	<GameDBSymptom ID="SYM_SH_PHIMOSIS">
+		<DescriptionLocID>SYM_SH_PHIMOSIS_DESCRIPTION</DescriptionLocID>
+		<DiscomfortLevel>Medium</DiscomfortLevel>
+		<PatientComplains>true</PatientComplains>
+		<Hazard>Low</Hazard>
+		<PatientMobility>MOBILE</PatientMobility>
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_SH_GROIN_EXAMINATION</ExaminationRef>
+		</Examinations>
+		<Treatments>
+			<TreatmentRef>TRT_DOCTOR'S_RECOMMENDATIONS</TreatmentRef>
+		</Treatments>
+		<ShameLevel>50</ShameLevel>
+		<IsMainSymptom>false</IsMainSymptom>
+		<SpeechBubbleRef>BUBBLE_PLACEHOLDER</SpeechBubbleRef>
+		<CustomIconBigAssetRef>ASSET_MOD_SH_ICON_PHI</CustomIconBigAssetRef>
+		<CustomIconSmallAssetRef>ASSET_MOD_SH_ICON_PHI_SMALL</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+</Database>

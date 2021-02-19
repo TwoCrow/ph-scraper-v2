@@ -1,0 +1,477 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_DIAGNOSES">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+	  <!-- Diagnoses -->
+	  
+	   <!-- Nose Disorders and Diseases -->
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSN</LocID>                         
+		 <Text>Chronic Sinusitis</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSN_DESCRIPTION</LocID>             
+		 <Text>Chronic Sinusitis is a condition where the sinus becomes inflammed for more than 3 months. In this case it might be caused by allergies, deviated septum, or respiratory tract infections . Treatment for this is a course of saline and corticosteroid nasal spray. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSP</LocID>                         
+		 <Text>Chronic Sinusitis (With Polyps)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_CSP_DESCRIPTION</LocID>             
+		 <Text>Chronic Sinusitis is a condition where the sinus becomes inflammed for more than 3 months. In this case it is caused by nasal polyps from allergies, HIV, Cystic Fibrosis, asthma or something else. Treatment for this is surgery to remove the polyps and a course of saline and corticosteroid nasal spray. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_ASN</LocID>                         
+	 	 <Text>Allergic Sinusitis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ASN_DESCRIPTION</LocID>             
+		 <Text>Sinusitis is a condition where the sinus becomes inflammed. Cases can be caused by allergies and etc.). In this case it is caused by allergies and treatment for this is antihistamines. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_ENS</LocID>                         
+		 <Text>Empty Nose Syndrome</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ENS_DESCRIPTION</LocID>             
+		 <Text>Empty nose syndrome (ENS), one form of secondary atrophic rhinitis, is a clinical syndrome in which people who have clear nasal passages experience a range of symptoms, most commonly feelings of nasal obstruction, nasal dryness and crusting, and a sensation of being unable to breathe. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_NAR</LocID>                         
+		 <Text>Non-allergic Rhinitis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_NAR_DESCRIPTION</LocID>             
+		 <Text>Non-allergic rhinitis involves chronic sneezing or a congested, drippy nose with no apparent cause. The symptoms of nonallergic rhinitis are similar to those of hay fever (allergic rhinitis), but none of the usual evidence of an allergic reaction is present.Nonallergic rhinitis can affect children and adults, but it's more common after age 20. Triggers of nonallergic rhinitis symptoms vary and can include certain odors or irritants in the air, changes in the weather, some medications, certain foods, and chronic health conditions.A diagnosis of nonallergic rhinitis is made after an allergic cause is ruled out. This may require allergy skin or blood tests.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_JM_AFS</LocID>                         
+		 <Text>Allergic Fungal Sinusitis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_AFS_DESCRIPTION</LocID>             
+		 <Text>Allergic Fungal Sinusitis. Allergic fungal sinusitis (AFS) is a rare type of fungal infection in the sinuses. The infecting fungi are found in the environment and cause an allergic reaction which results in thick fungal debris, sticky mucus and blockage of the infected sinus. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_DNS</LocID>                         
+		 <Text>Deviated Nasal Septum</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_DNS_DESCRIPTION</LocID>             
+		 <Text>A deviated nasal septum means the septum of the nose is crooked due to some kind of trauma. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_LOF</LocID>                         
+		 <Text>Laceration of Face</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_LOF_DESCRIPTION</LocID>             
+		 <Text>The patient's face is lacerated. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_THT</LocID>                         
+		 <Text>Turbinate Hypertrophy</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_THT_DESCRIPTION</LocID>             
+		 <Text>The nasal turbinates are long, narrow passageways that help to warm and moisten the air that flows in through the nose. The turbinates are also called the nasal conchae. If the turbinates are too large, they can actually block airflow. Doctors call this condition turbinate hypertrophy. This condition can cause breathing problems, frequent infections, and nosebleeds. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_DSA</LocID>                         
+		 <Text>Dysosmia</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_DSA_DESCRIPTION</LocID>             
+		 <Text>Dysosmia is a disorder described as any qualitative alteration or distortion of the perception of smell. Qualitative alterations differ from quantitative alterations, which include anosmia and hyposmia. Dysosmia can be classified as either parosmia (also called troposmia) or phantosmia. Parosmia is a distortion in the perception of an odorant. Odorants smell different from what one remembers. Phantosmia is the perception of an odor when no odorant is present. The cause of dysosmia still remains a theory. It is typically considered a neurological disorder and clinical associations with the disorder have been made. Most cases are described as idiopathic and the main antecedents related to parosmia are URTIs, head trauma, and nasal and paranasal sinus disease. Dysosmia tends to go away on its own but there are options for treatment for patients that want immediate relief. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_NSC</LocID>                         
+		 <Text>Nasal Cancer (Squamous Cell Carcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_NAC</LocID>                         
+		 <Text>Nasal Cancer (Adenocarcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_NMA</LocID>                         
+		 <Text>Nasal Cancer (Melanoma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_NSC_DESCRIPTION</LocID>             
+		 <Text>Paranasal sinus and nasal cavity cancer is a disease in which malignant (cancer) cells form in the tissues of the paranasal sinuses and nasal cavity. "Paranasal" means near the nose. The para sinuses are hollow, air-filled spaces in the bones around the nose. The sinuses are lined with cells that make mucus, which keeps the inside of the nose from drying out during breathing. The nose opens into the nasal cavity, which is divided into two nasal passages. Air moves through these passages during breathing. The nasal cavity lies above the bone that forms the roof of the mouth and curves down at the back to join the throat. The area just inside the nostrils is called the nasal vestibule. A small area of special cells in the roof of each nasal passage sends signals to the brain to give the sense of smell. Together the paranasal sinuses and the nasal cavity filter and warm the air, and make it moist before it goes into the lungs. The movement of air through the sinuses and other parts of the respiratory system help make sounds for talking. Paranasal sinus and nasal cavity cancer is a type of head and neck cancer.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_FON</LocID>                         
+		 <Text>Foreign Object in Nose</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_FON_DESCRIPTION</LocID>             
+		 <Text>The patient has a object lodged in his/her's nose. </Text>  
+		</GameDBLocalizedString>
+		
+		
+	  <!-- Ear Disorders and Diseases -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_SED</LocID>                         
+		 <Text>Meniere's Disease (Severe)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_SED_DESCRIPTION</LocID>             
+		 <Text>Meniere's disease is a disorder of the inner ear that can lead to dizzy spells (vertigo) and hearing loss. In most cases, Meniere's disease affects only one ear.Meniere's disease can occur at any age, but it usually starts between young and middle-aged adulthood. It's considered a chronic condition, but various treatments can help relieve symptoms and minimize the long-term impact on your life. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_SVE</LocID>                         
+		 <Text>Severed Ear</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_SVE_DESCRIPTION</LocID>             
+		 <Text>A severed ear means the ear has been cut or bit off. </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_BTE</LocID>                         
+		 <Text>Barotrauma</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_BTE_DESCRIPTION</LocID>             
+		 <Text>Ear barotrauma is discomfort in the ear due to pressure differences between the inside and outside of the eardrum. It may include damage to the ear.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_FOE</LocID>                         
+		 <Text>Foreign Object in Ear</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_FOE_DESCRIPTION</LocID>             
+		 <Text>The patient has a object lodged in his/her's ear. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_ACN</LocID>                         
+		 <Text>Acoustic Neuroma</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_ACN_DESCRIPTION</LocID>             
+		 <Text>A vestibular schwannoma (also known as acoustic neuroma, acoustic neurinoma, or acoustic neurilemoma) is a benign, usually slow-growing tumor that develops from the balance and hearing nerves supplying the inner ear. The tumor comes from an overproduction of Schwann cells—the cells that normally wrap around nerve fibers like onion skin to help support and insulate nerves. As the vestibular schwannoma grows, it affects the hearing and balance nerves, usually causing unilateral (one-sided) or asymmetric hearing loss, tinnitus (ringing in the ear), and dizziness/loss of balance. As the tumor grows, it can interfere with the face sensation nerve (the trigeminal nerve), causing facial numbness. Vestibular schwannomas can also affect the facial nerve (for the muscles of the face) causing facial weakness or paralysis on the side of the tumor. If the tumor becomes large, it will eventually press against nearby brain structures (such as the brainstem and the cerebellum), becoming life-threatening. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_VNI</LocID>                         
+		 <Text>Vestibular Neuritis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_VNI_DESCRIPTION</LocID>             
+		 <Text>Vestibular neuritis is a disorder that affects the nerve of the inner ear called the vestibulocochlear nerve. This nerve sends balance and head position information from the inner ear to the brain. When this nerve becomes swollen (inflamed), it disrupts the way the information would normally be interpreted by the brain. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_CTN</LocID>                         
+		 <Text>Cerumen Impaction</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_CTN_DESCRIPTION</LocID>             
+		 <Text>Earwax, also called cerumen, is made by the body to protect the ears. The ear wax has both lubricating and antibacterial properties. Untreated buildup can lead to hearing loss, irritation, pain in the ear, dizziness, ringing in the ears and other problems. Earwax can be removed in several ways; some of these methods can be done at home.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_BPPV</LocID>                         
+		 <Text>Benign Paroxymal Position Vertigo</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_BPPV_DESCRIPTION</LocID>             
+		 <Text>Benign paroxysmal positional vertigo (BPPV) is a disorder arising from a problem in the inner ear. Symptoms are repeated, brief periods of vertigo with movement, that is, of a spinning sensation upon changes in the position of the head. This can occur with turning in bed or changing position. Each episode of vertigo typically lasts less than one minute. Nausea is commonly associated. BPPV is one of the most common causes of vertigo. BPPV can result from a head injury or simply occur among those who are older. A specific cause is often not found. The underlying mechanism involves a small calcified otolith moving around loose in the inner ear. It is a type of balance disorder along with labyrinthitis and Ménière's disease. Diagnosis is typically made when the Dix–Hallpike test results in nystagmus (a specific movement pattern of the eyes) and other possible causes have been ruled out. In typical cases, medical imaging is not needed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_PCHA</LocID>                         
+		 <Text>Perichondrial Hematoma</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_PCHA_DESCRIPTION</LocID>             
+		 <Text>If you’ve ever attended a wrestling match, you may have noticed something different about some of the athletes’ ears. Cauliflower ear, also known as perichondrial hematoma or wrestler’s ear, is a deformity of the ear caused by trauma. Cauliflower ear occurs when blood pools in your pinna after it’s been hit or struck. The pinna is your outer ear. This pooling of blood, known as a hematoma, needs to be treated right away. While there’s no treatment for cauliflower ear, it can be prevented even after the trauma has occurred. So it’s crucial to know the warning signs and take action right away.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- New --> 
+		 <LocID>DIA_JM_EWR</LocID>                         
+		 <Text>Ear wax removal appointment</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_EWR_DESCRIPTION</LocID>             
+		 <Text>The patient has a appointment with a ENT specialist to get their ear wax removed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MEDR</LocID>                         
+		 <Text>Rupture of the eardrum</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MEDR_DESCRIPTION</LocID>             
+		 <Text>A ruptured eardrum (tympanic membrane perforation) is a hole or tear in the thin tissue that separates your ear canal from your middle ear (eardrum).A ruptured eardrum can result in hearing loss. It can also make your middle ear vulnerable to infections.A ruptured eardrum usually heals within a few weeks without treatment. But sometimes it requires a patch or surgical repair to heal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_SEDR</LocID>                         
+		 <Text>Unhealed Rupture of the eardrum</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_SEDR_DESCRIPTION</LocID>             
+		 <Text>A ruptured eardrum (tympanic membrane perforation) is a hole or tear in the thin tissue that separates your ear canal from your middle ear (eardrum).A ruptured eardrum can result in hearing loss. It can also make your middle ear vulnerable to infections.A ruptured eardrum usually heals within a few weeks without treatment. But sometimes it requires a patch or surgical repair to heal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_SWE</LocID>                         
+		 <Text>Severe Otitis Externa</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GEE</LocID>                         
+		 <Text>Severe Glue Ear</Text>	
+		</GameDBLocalizedString>
+		
+	  <!-- Throat and Mouth Disorders and Diseases -->
+		
+        <GameDBLocalizedString> 
+		 <LocID>DIA_JM_CSA</LocID>                         
+		 <Text>Chronic Sialadenitis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_CSA_DESCRIPTION</LocID>             
+		 <Text>Chronic sialadenitis, in contrast, is typically less painful and is associated with recurrent enlargement of the gland (often following meals) typically without erythema. The chronic form of the disease is associated with conditions linked to decreased salivary flow, rather than dehydration.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_JM_ASS</LocID>                         
+		 <Text>Acute Suppurative Sialadenitis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_ASS_DESCRIPTION</LocID>             
+		 <Text>Acute sialadenitis is a bacterial inflammation of the salivary gland. It typically affects one major salivary gland, most commonly the parotid,4 and is common in medically debilitated, hospitalized, or postoperative patients.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_JM_DTA</LocID>                         
+		 <Text>Diphtheria</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_JM_DTA_DESCRIPTION</LocID>             
+		 <Text>Diphtheria (dif-THEER-e-uh) is a serious bacterial infection that usually affects the mucous membranes of your nose and throat. Diphtheria is extremely rare in the United States and other developed countries, thanks to widespread vaccination against the disease.Diphtheria can be treated with medications. But in advanced stages, diphtheria can damage your heart, kidneys and nervous system. Even with treatment, diphtheria can be deadly, especially in children..</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_VCP</LocID>                         
+		 <Text>Vocal Cord Paralysis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_VCP_DESCRIPTION</LocID>             
+		 <Text>Vocal cord paralysis occurs when the nerve impulses to your voice box (larynx) are disrupted. This results in paralysis of the vocal cord muscles. Vocal cord paralysis can affect your ability to speak and even breathe. That's because your vocal cords, sometimes called vocal folds, do more than just produce sound.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_JM_TSC</LocID>                         
+		 <Text>Throat Cancer (Squamous Cell Carcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_JM_TSC_DESCRIPTION</LocID>             
+		 <Text>Squamous cell carcinoma of the throat is the most common type of throat cancer. Squamous cell carcinoma of the throat is an uncontrolled growth of abnormal cells of the lining of the throat. The throat consists of the pharynx (the upper part behind the tongue) and the larynx (the voice box).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_JM_TAC</LocID>                         
+		 <Text>Throat Cancer (Adenocarcinoma)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		 <LocID>DIA_JM_TAC_DESCRIPTION</LocID>             
+		 <Text>Throat cancer refers to cancerous tumors that develop in your throat (pharynx), voice box (larynx) or tonsils. Your throat is a muscular tube that begins behind your nose and ends in your neck. Throat cancer most often begins in the flat cells that line the inside of your throat. Adenocarcinoma is the 2nd most common type of throat cancer in the world. Adenocarcinoma usually developes in the upper lining of your esophagus.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_JM_CPHG</LocID>                         
+		 <Text>Chronic Pharyngitis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_JM_CPHG_DESCRIPTION</LocID>             
+		 <Text>Pharyngitis is an inflammatory condition of the back of the throat, the pharynx. Acute pharyngitis is more common, and symptoms usually resolve within ten days. Treatment for acute pharyngitis is usually focussed on treating the symptoms. Most cases of acute pharyngitis are viral, but some are bacterial. Antibiotics are only helpful if bacterial infection is the cause for acute pharyngitis. But even if it clearly is bacterial, which can sometimes be hard to tell, antibiotic treatment is not necessarily recommended for all patient groups. However, chronic pharyngitis can be caused by a number of different factors besides infection.In chronic pharyngitis, the soreness either does not go away or recurs frequently. Pharyngitis may be chronic if the sore throat lasts for more than a few weeks. There are several underlying causes for chronic pharyngitis, and treatment depends on what the underlying cause is.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_SPT</LocID>                         
+		 <Text>Strep Throat</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_SPT_DESCRIPTION</LocID>             
+		 <Text>Strep throat is an infection caused by a type of bacteria (group A streptococcus). Strep bacteria cause almost a third of all sore throats. Strep throat usually needs treatment with antibiotics. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_HFMV2</LocID>                         
+		 <Text>Hand Foot Mouth Disease</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_HFM_DESCRIPTION</LocID>             
+		 <Text>Hand, foot, and mouth disease (HFMD) is a common infection caused by a group of viruses. It typically begins with a fever and feeling generally unwell. This is followed a day or two later by flat discolored spots or bumps that may blister, on the hands, feet and mouth. There is no treatment for this disease, you only have to treat the symptoms until the disease is over. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_LGP</LocID>                         
+		 <Text>Laryngeal papillomatosis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_LGP_DESCRIPTION</LocID>             
+		 <Text>Laryngeal papillomatosis, also known as recurrent respiratory papillomatosis or glottal papillomatosis, is a rare medical condition in which benign tumors (papilloma) form along the aerodigestive tract. There are two variants based on the age of onset: juvenile and adult laryngeal papillomatosis. The tumors are caused by human papillomavirus (HPV) infection of the throat. The tumors may lead to narrowing of the airway, which may cause vocal changes or airway obstruction. Laryngeal papillomatosis is initially diagnosed through indirect laryngoscopy upon observation of growths on the larynx and can be confirmed through a biopsy. Treatment for laryngeal papillomatosis aims to remove the papillomas and limit their recurrence. Due to the recurrent nature of the virus, repeated treatments usually are needed. Laryngeal papillomatosis is primarily treated surgically, though supplemental nonsurgical and/or medical treatments may be considered in some cases. The evolution of laryngeal papillomatosis is highly variable. Though total recovery may be observed, it is often persistent despite treatment. The number of new cases of laryngeal papillomatosis cases is at approximately 4.3 cases per 100,000 children and 1.8 cases per 100,000 adults annually.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_VCN</LocID>                         
+		 <Text>Vocal Cord Nodules</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_VCN_DESCRIPTION</LocID>             
+		 <Text>Vocal nodules are hard, rough, noncancerous growths on your vocal cords. They can be as small as a pinhead or as large as a pea. You get nodules from straining or overusing your voice, especially from singing, yelling, or talking loudly or for a long period of time. Vocal nodules go by other names based on their cause.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYC</LocID>                         
+		 <Text>Trauma of the Larynx</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYC_DESCRIPTION</LocID>             
+		 <Text>Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located.Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYL</LocID>                         
+		 <Text>Laceration of the Larynx</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_JM_LYL_DESCRIPTION</LocID>             
+		 <Text>Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located.Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GRDV2</LocID>                         
+		 <Text>Gastroesophageal reflux disease</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_GRD</LocID>                         
+		 <Text>Gastroesophageal reflux disease (Obselete)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_GRD_DESCRIPTION</LocID>             
+		 <Text>Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD. If left untreated it will cause esophagitis, Barett's esophagus and even esophageal cancer.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- New -->
+		 <LocID>DIA_JM_OSA2</LocID>                         
+		 <Text>Obstructive Sleep Apnea</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_OSA_DESCRIPTION</LocID>             
+		 <Text>Obstructive sleep apnea (OSA) is the most common type of sleep apnea and is characterised by repeated episodes of complete or partial obstructions of the upper airway during sleep, despite the effort to breathe, and is usually associated with a reduction in blood oxygen saturation.</Text>  
+		</GameDBLocalizedString>
+		
+	  <!-- Obselete -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_APX</LocID>                         
+		 <Text>Anaphylaxis</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_APX_DESCRIPTION</LocID>             
+		 <Text>Anaphylaxis is a severe, potentially life-threatening allergic reaction. It can occur within seconds or minutes of exposure to something you're allergic to, such as peanuts or bee stings.Anaphylaxis causes your immune system to release a flood of chemicals that can cause you to go into shock — your blood pressure drops suddenly and your airways narrow, blocking breathing. Signs and symptoms include a rapid, weak pulse; a skin rash; and nausea and vomiting. Common triggers include certain foods, some medications, insect venom and latex.Anaphylaxis requires an injection of epinephrine and a follow-up trip to an emergency room. If you don't have epinephrine, you need to go to an emergency room immediately. If anaphylaxis isn't treated right away, it can be fatal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_MED</LocID>                         
+		 <Text>Meniere's Disease (Mild)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_MED_DESCRIPTION</LocID>             
+		 <Text>Meniere's disease is a disorder of the inner ear that can lead to dizzy spells (vertigo) and hearing loss. In most cases, Meniere's disease affects only one ear.Meniere's disease can occur at any age, but it usually starts between young and middle-aged adulthood. It's considered a chronic condition, but various treatments can help relieve symptoms and minimize the long-term impact on your life. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_CLA</LocID>                         
+		 <Text>Cholesteatoma</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_JM_CLA_DESCRIPTION</LocID>             
+		 <Text>Cholesteatoma is a destructive and expanding growth consisting of keratinizing squamous epithelium in the middle ear and/or mastoid process. Cholesteatomas are not cancerous as the name may suggest, but can cause significant problems because of their erosive and expansile properties. This can result in the destruction of the bones of the middle ear (ossicles), as well as growth through the base of the skull into the brain. They often become infected and can result in chronically draining ears. Treatment almost always consists of surgical removal.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_HFM</LocID>                         
+		 <Text>Hand Foot Mouth Disease (Obsolete)</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_JM_OSA</LocID>                         
+		 <Text>Obstructive Sleep Apnea (Obsolete)</Text>	
+		</GameDBLocalizedString>
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

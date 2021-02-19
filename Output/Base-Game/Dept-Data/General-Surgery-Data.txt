@@ -1,0 +1,41 @@
+General-Surgery
+Total Diagnoses: 48 | Serious: 28 | Fatal: 5
+
+Deciding Exams:
+MRI: 3
+Abdominal palpation: 1
+Microbial cultivation: 2
+USG: 6
+FAST: 5
+ELISA testing: 1
+CT: 6
+Transient elastography: 2
+Serologic testing: 2
+CT - enterography: 2
+Gastroscopy: 5
+Elastase test - testing: 1
+Barium swallow: 1
+Biopsy - testing: 4
+Blood test: 5
+Stool analysis: 1
+Peritoneal fluid analysis - testing: 1
+
+Urgent Exams:
+Blood pressure measurement : 5
+Blood analysis - ICU: 4
+Microbial cultivation: 1
+Physical examination: 3
+USG: 1
+Heart monitoring: 6
+FAST: 3
+Interview: 8
+MRI: 1
+CT: 1
+Gastroscopy: 2
+Elastase test - testing: 1
+Urgent Echo: 2
+Blood test: 1
+Serologic testing: 1
+Biopsy - testing: 1
+Stool analysis: 1
+Peritoneal fluid analysis - testing: 1

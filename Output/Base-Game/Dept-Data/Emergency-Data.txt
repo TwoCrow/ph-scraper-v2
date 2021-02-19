@@ -1,0 +1,21 @@
+Emergency
+Total Diagnoses: 30 | Serious: 0 | Fatal: 0
+
+Deciding Exams:
+X-ray lower limb: 3
+X-ray upper limb: 3
+Fungal cultivation: 2
+Microbial cultivation: 2
+Stool analysis: 2
+X-ray chest: 1
+Physical examination: 3
+Evaluation: 2
+Nasal cavity inspection: 2
+Skin allergy test: 2
+Serologic testing: 3
+Blood test: 2
+Laryngoscopy: 1
+Oral cavity inspection: 1
+X-ray back: 1
+
+Urgent Exams:

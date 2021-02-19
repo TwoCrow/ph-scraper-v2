@@ -1,0 +1,38 @@
+Internal-Medicine
+Total Diagnoses: 69 | Serious: 45 | Fatal: 6
+
+Deciding Exams:
+CT: 9
+Serologic testing: 7
+Microbial cultivation: 9
+Ear examination: 4
+Spirometry: 2
+Physical examination: 1
+PCR - testing: 8
+Blood test: 10
+X-ray chest: 5
+Evaluation: 5
+Sweat Chloride Test: 1
+CBC - testing: 1
+FAST: 3
+MRI: 2
+Biopsy - testing: 1
+Ophthalmoscopy: 1
+
+Urgent Exams:
+Serologic testing: 2
+Heart monitoring: 17
+CT: 1
+Physical examination: 12
+X-ray chest: 14
+Spirometry: 2
+Blood analysis - ICU: 5
+Interview: 16
+PCR - testing: 6
+Blood test: 4
+Urgent Echo: 1
+CBC - testing: 1
+FAST: 3
+Biopsy - testing: 1
+MRI: 1
+Microbial cultivation: 1

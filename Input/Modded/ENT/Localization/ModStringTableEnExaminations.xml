@@ -1,0 +1,124 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_OTOR_EXAMINATIONS">
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <Contributors>
+            <Name>James Buckham</Name>
+        </Contributors>
+        <LocalizedStrings>
+            <!-- Examinations -->
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+			<Text>(ENT version) Laryngoscopy</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_OTOR_LARYNGOSCOPY_DESCRIPTION</LocID>  
+			<Text>A procedure where a flexible tube (endoscope) with a tiny video camera and a light source in the end is inserted through the nose to examine the larynx, glottis, and vocal chords. Laryngoscopy is also used to facilitate tracheal intubation. \n\nRequired room: Doctor's office / Observation room / ICU</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_EAR_EXAMINATION</LocID>    
+			<Text>(ENT version) Ear examination</Text>  
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
+			<Text>(ENT version) Audiometry</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM</LocID>                  
+			<Text>Audiogram</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>                  
+			<Text>An audiogram is a graph that shows the audible threshold for standardized frequencies as measured by an audiometer. The Y axis represents intensity measured in decibels and the X axis represents frequency measured in hertz.</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY</LocID>                  
+			<Text>Polysomnograph</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>                  
+			<Text>Polysomnography, also called a sleep study, is a test used to diagnose sleep disorders. Polysomnography records your brain waves, the oxygen level in your blood, heart rate and breathing, as well as eye and leg movements during the study.</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>     
+			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
+			<Text>(ENT version) Skin allergy test</Text> 
+			</GameDBLocalizedString>
+			
+		  <!-- Lab Tests -->
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+			<Text>Sputum Sampling </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+			<Text>A sputum culture is a test to detect and identify bacteria or fungi that infect the lungs or breathing passages. Sputum is a thick fluid produced in the lungs and in the adjacent airways. ... If no bacteria or fungi grow, the culture is negative. \n\nRequired room: Hematology Lab</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+			<Text>Sputum Culture</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+			<Text>The sampling of sputum for a Sputum Culture. \n\nRequired room: Hematology Lab</Text> 
+			</GameDBLocalizedString>
+			
+			
+		 <!-- Obeselete -->
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING</LocID>
+			<Text>Tryptase test - Sampling </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING_DESCRIPTION</LocID>  
+			<Text>Tryptase is an enzyme that is released, along with histamine and other chemicals, from mast cells when they are activated as part of a normal immune response as well as in allergic (hypersensitivity) responses. This test measures the amount of tryptase in the blood. \n\nRequired room: Hematology Lab</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_JM_TRYPTASE_TEST_TESTING</LocID>
+			<Text>Tryptase test - Testing </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_TRYPTASE_TEST_TESTING_DESCRIPTION</LocID>  
+			<Text>The sampling of blood for a Tryptase test. \n\nRequired room: Hematology Lab</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING</LocID>
+			<Text>Histamine test - Sampling </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING_DESCRIPTION</LocID>  
+			<Text>The histamine test is a useful indicator of mast cell activation. The test may be used to help confirm that a person has had an anaphylactic reaction, or it may be used to help diagnose mastocytosis, a rare group of disorders characterized by abnormal proliferation of mast cells. \n\nRequired room: Hematology Lab</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>
+			<LocID>EXM_JM_HISTAMINE_TEST_TESTING</LocID>
+			<Text>Histamine test - Testing </Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_HISTAMINE_TEST_TESTING_DESCRIPTION</LocID>  
+			<Text>The sampling of blood for a Histamine test. \n\nRequired room: Hematology Lab</Text> 
+			</GameDBLocalizedString>
+			
+            
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

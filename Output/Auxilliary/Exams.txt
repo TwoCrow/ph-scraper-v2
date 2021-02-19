@@ -1,0 +1,331 @@
+Total Exams: 78
+
+### Abdominal palpation
+Type of physical examination. The examiner palpates (touches) nine areas of the patient's abdomen, performing it twice, both superficially and deeply. 
++ Required room: Any office / Diagnostic unit
+
+### Angiography
+An imaging method used to visualize the lumen of the blood vessels and organs, particulary the arteries, the veins, and the heart. 
++ Required room: CAG room
+
+### Audiometry
+Audiometric testing determines patient's level of hearing. 
++ Required room: Doctor's office / Observation room / ICU / Office / Diagnostic unit at Emergency / ICU / General Surgery dpt / Internal Medicine dpt / DID
+
+### Barium swallow
+A test where the patient swallows a barium sulfate mixture that shows up on x-ray. It is used to examine the lumen of the esophagus, stomach, and intestines. 
++ Required room: X-ray room
+
+### Basic visual test
+Common visual test used to examine the patient's visual acuity. 
++ Required room: Any office at Emergency / General Surgery dpt / Internal Medicine dpt / Cardiology / Neurology / DID 
++ Required equipment: Eye test
+
+### Biopsy - sampling
+A surgical procedure where a piece of tissue (e.g. lung, liver, intestine) is taken out for further testing. 
++ Required room: Histology Lab Sampling: Emergency dpt / General Surgery dpt / Orthopaedy dpt / Cardiology dpt / Neurology dpt / ICU 
++ Required equipment: Glassware + Lab analyzer + Microscope
+
+### Biopsy - testing
+The piece of tissue that was taken our during the biopsy procedure is examined under a microscope and treated with various preparations for allow for more specific testing. 
++ Required room: Histology Lab
+
+### Blood analysis - ICU
+Special blood analysis that is mostly used at intensive care units. 
++ Required room: ICU room 
++ Required equipment: Hematoanalyzer
+
+### Blood draw
+The collection of a sample of the patient's blood (venous or arterial) for further analysis or testing. 
++ Required room: Hematology Lab Sampling: Any department 
++ Required equipment: Glassware + Hematoanalyzer
+
+### Blood pressure measurement 
+The classic, manual measurement of the patient's blood pressure and pulse (heartbeat frequency) using sphygmomanometer. 
++ Required room: Any office / Diagnostic unit
+
+### Blood test
+Laboratory analysis of a blood sample. 
++ Required room: Hematology Lab
+
+### CBC - sampling
+The sampling of blood for a Complete Blood Count (CBC) test. 
++ Required room: Hematology Lab Sampling: Emergency dpt / General Surgery dpt / Internal Medicine dpt / Orthopaedy dpt / Neurology dpt / ICU 
++ Required equipment: Glassware + Hematoanalyzer
+
+### CBC - testing
+Complete Blood Count (CBC) test counts all of the cells found in the blood and determines if there is an increase or decrease in any of those cells. 
++ Required room: Hematology Lab
+
+### Chest auscultation
+The auscultation (listening with a stethoscope) of the heart and lungs. 
++ Required room: Any office / Diagnostic unit
+
+### CRP
+C-reactive protein (CRP) is diagnostic test based on a quick blood test measuring the concentration of C-reactive protein that is indicative of inflammatory and infectious diseases. 
++ Required room: Any office / Diagnostic unit / Observation room / Trauma center / ICU at Any department except Neurology dpt
+
+### CSF analysis
+Process of analysis of cerebrospinal fluid in the laboratory. 
++ Required room: Histology Lab
+
+### CSF sampling
+Sampling of cerebrospinal fluid is performed by inserting a needle through the lower back into the spinal canal, draining a small amount of the fluid. 
++ Required room: Histology Lab Sampling: Neurology dpt / DID 
++ Required equipment: Glassware + Medical centrifuge + Lab analyzer
+
+### CT
+Computed tomography (CT) is an imaging modality that creates detailed images of the internal organs and bones. By injecting intravenous constrast or making the patient swallow contrast, the use of CT can be used to assess a wider range of diseases. 
++ Required room: CT room
+
+### CT - enterography
+Computed tomography (CT) enterography is diagnostic imaging modality creating detailed images of the intestines by injecting intravenous contrast after the patient has ingested liquid contrast. 
++ Required room: CT room
+
+### Differential diagnosis
+Special case-review that reduces the amount of possible diagnoses. Can only be performed by a doctor with advanced diagnosis specialization. 
++ 
+
+### Ear examination
+EXM_EAR_EXAMINATION
++ 
+
+### ECG
+Electrocardiography (ECG) is the recording of the heart's electrical activity by electrodes on the skin. 
++ Required room: Cardiography unit
+
+### Echo
+Echocardiography is the ultrasonographic assessment of the patient's heart and large veins and arteries entering and leaving the heart. 
++ Required room: Cardiography unit
+
+### EEG
+Electroencephalography (EEG) is the recording of the brain's electrical activity by equipping the patient with a hat containing many electrodes. 
++ Required room: Neuroexam unit
+
+### Elastase test - sampling
+The collection of a stool sample from the patient in order to quantify the amount of the elastase produced by the pancreas. It indicates the actual function of the pancreas. 
++ Required room: Hematology Lab Sampling: Emergency dpt / General Surgery dpt / ICU 
++ Required equipment: Glassware + RIA
+
+### Elastase test - testing
+The measurement of elastase in a stool sample from a patient. The amount indicates the actual function of the pancreas. 
++ Required room: Hematology Lab
+
+### ELISA sampling
+Enzyme-linked immunosorbent assay is a laboratory technique used to detect and quantify peptides, proteins, antibodies and hormones. \n\nSampling: Emergency dpt / Internal Medicine dpt / Infectious diseases dpt / ICU 
++ Required equipment: Glassware + RIA
+
+### ELISA testing
+Enzyme-linked immunosorbent assay is a laboratory technique used to detect and quantify peptides, proteins, antibodies and hormones. 
++ Required room: Hematology Lab
+
+### EMG
+Electromyography (EMG) is the recording and evaluation of the electrical activity of the patient's muscles. 
++ Required room: Office/Diagnostic unit at Orthopaedy dpt 
+
+### Evaluation
+Considering all the symptoms and examinations recently carried out to specify the diagnosis. 
++ Required room: Any office / Diagnostic unit
+
+### FAST
+Fast Assessment with Sonography in Trauma (FAST) is a special ultrasonography method used in the evaluation of trauma patients and intensive care unit patients. 
++ Required room: Trauma center, ICU
+
+### Fungal cultivation
+Laboratory cultivation of the specific samples obtained from the patient's body. 
++ Required room: Microbiology Lab
+
+### Gastroscopy
+A procedure where a flexible tube (endoscope) with a tiny video camera and a light source at the end is inserted through the mouth in order to examine the upper part of digestive tract.
++ Required room: ICU / Office / Diagnostic unit at General Surgery dpt / Internal Medicine dpt / Cardiology dpt / DID
+
+### Gonioscopy
+Gonioscopy is an eye examination used to evaluate the drainage system of the eye. 
++ Required room: ICU / Office / Diagnostic unit at Neurology
+
+### Heart monitoring
+Longterm monitoring of the heart's eletrical activity. 
++ Required room: ICU / Trauma center / Observation room Requiered equipment: Wall monitor / Anesthetic machine
+
+### Interview
+Interviewing the patient to get as much information as possible about his medical condition. 
++ Required room: Any office / Diagnostic unit
+
+### Laryngoscopy
+A procedure where a flexible tube (endoscope) with a tiny video camera and a light source in the end is inserted through the nose to examine the larynx, glottis, and vocal chords. Laryngoscopy is also used to facilitate tracheal intubation. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU
+
+### Microbial cultivation
+Laboratory cultivation of the specific sample obtained from the patient in order to determine if bacterias are present and which kind of bacteria it is. 
++ Required room: Microbiology Lab
+
+### Microbial sampling
+Microbial sampling is the collection of samples from the patient (e.g. body fluids, sputum, stool) for further analysis. 
++ Required room: Microbiology Lab Sampling: Emergency dpt / General Surgery dpt / Internal Medicine dpt / Neurology dpt / ICU 
++ Required equipment: Glassware + Fume hood + Microbiolog. incubator + Microscope
+
+### MRI
+Magnetic resonance imaging (MRI) creates detailed images of the anatomy and physiology of the body and internal organs by using a magnetic fields, magnetics waves, and radio waves. 
++ Required room: MRI room
+
+### Mycologic sampling
+Collecting various samples from the patient's body for cultivation in order to determine if fungal species are present or not. 
++ Required room: Microbiology Lab Sampling: Emergency dpt / ICU 
++ Required equipment: Glassware + Fume hood + Microbiolog. incubator + Microscope
+
+### Nasal cavity inspection
+Examination and visual inspection of the patient's nose including the nasal cavity. 
++ Required room: Any office / Diagnostic unit
+
+### Neck palpation
+Palpation (touching) of the patient's neck. 
++ Required room: Any office / Diagnostic unit
+
+### Neurological testing
+Different simple and specific questions and tests that provide information about the patient's central nervous system. 
++ Required room: Any office / Diagnostic unit at all departments except Orthopaedy dpt
+
+### Ophthalmoscopy
+A procedure where the fundus/retina is visualised through a funduscope/opthalmoscope. 
++ Required room: Doctor's office / Observation room / Trauma center / ICU / Office/Diagnostic unit at Emergency / ICU / Internal Medicine dpt / Neurology dpt / Traumatology dpt
+
+### Oral cavity inspection
+Examination and visual inspection of the patient's oral cavity. 
++ Required room: Any office / Diagnostic unit at all departments except Orthopaedy dpt and Neurology
+
+### PCR - sampling
+Sampling of biological material for polymerase chain reaction analysis in the laboratory. Examination is quick, cheap and exact. 
++ Required room: Hematology Lab Sampling: All departments 
++ Required equipment: Glassware + Thermal cycler
+
+### PCR - testing
+Polymerase chain reaction is quick examination method of identifying infectious disease caused by bacteria or viruses. Examination is quick, cheap and exact. 
++ Required room: Hematology Lab
+
+### Perimetry
+Perimetry is ophtalmology test that systematically tests the complete field of vision. 
++ Required room: Neuroexam Unit at Neurology dpt
+
+### Peritoneal fluid analysis - sampling
+Sampling of peritoneal fluid with a large needle and syringe through the abdominal wall. 
++ Required room: Histology Lab Sampling: General Surgery dpt 
++ Required equipment: Glassware + Medical centrifuge + Lab analyzer
+
+### Peritoneal fluid analysis - testing
+Biochemical test that analyzes the fluid collected from the peritoneal space. 
++ Required room: Histology Lab
+
+### Physical examination
+Examination of the specific area on the patient's body. 
++ Required room: Any office / Diagnostic unit
+
+### PS blood control
+Post surgery blood analysis is used in post-operative care in patients that could suffer from sepsis. 
++ Required room: Cardiography unit 
++ Required equipment: Lab analyzer
+
+### Pulse oxymetry
+Pulse oxymetry is an easy-to-use and effective method for monitoring patient's oxygen saturation.
++ 
+
+### RT-PCR sampling
+Reverse transcription polymerase chain reaction is a laboratory technique combining reverse transcription of RNA into DNA and amplification of specific DNA targets using PCR. 
++ Required room: Hematology Lab Sampling: Emergency dpt / Infectious diseases dpt / ICU /
++ Required equipment: Glassware + Thermal cycler
+
+### RT-PCR testing
+Reverse transcription polymerase chain reaction is a laboratory technique combining reverse transcription of RNA into DNA and amplification of specific DNA targets using PCR. 
++ Required room: Hematology Lab
+
+### Serologic sampling
+Drawing of a blood sample for serologic tests. 
++ Required room: Hematology Lab Sampling: All departments 
++ Required equipment: Glassware + RIA
+
+### Serologic testing
+Special blood test examining specific antibodies and antigens. Antibodies are proteins made by human immune system to neutralize pathogens. 
++ Required room: Hematology Lab
+
+### Skin allergy test
+Injection of a small amount of different of allergen extracts into the skin usually on the arm to confirm or deny the allergic reactions to specific allergens. 
++ Required room: Offices / Diagnostic units at Emergency dpt / ICU dpt / Neurology dpt
+
+### Speech listening
+Listening to speech flow of the patient. 
++ Required room: Any office / Diagnostic unit
+
+### Spirometry
+One of the most common pulmonary function test, measuring lung function. 
++ Required room: Office / Diagnostic Unit at Internal Medicine dpt
+
+### Stool analysis
+Analysis of the patient's stool for bacteria, blood, parasites etc. 
++ Required room: Histology Lab
+
+### Stool collecting
+Procedure to collect a sample of patient's stool for further analysis. 
++ Required room: Histology Lab Sampling: Emergency dpt / General Surgery dpt / Internal Medicine dpt / ICU / DID 
++ Required equipment: Glassware + Stool analyzer
+
+### Sweat Chloride Test
+Special biochemical test used to diagnose cystic fibrosis. 
++ Required room: Office / Diagnostic unit at Internal Medicine dpt / ICU
+
+### Temperature measurement
+Examination to determine the current body temperature. 
++ Required room: Any office / Diagnostic unit
+
+### Thorax percussion
+Examination consisting of systematically tapping on the thorax to identify areas with less air within the thorax. 
++ Required room: Offices / Diagnostic Units at General Surgery dpt / Internal Medicine dpt / Cardiology dpt
+
+### Tonometry
+Test that measures pressure inside the eye also known as intraocular pressure. 
++ Required room: Neuroexam unit
+
+### Transient elastography
+Special ultra sound imaging method that maps elastic properties and stiffness of soft tissues in the internal organs. 
++ Required room: Sonography unit at General Surgery dpt / Radiology
+
+### Triage in the reception
+EXM_RECEPTION_FAST
++ 
+
+### Urgent Echo
+Special critical care echocardiography used mainly in intensive care units or trauma centers to assess if the heart is pumping properly, if there is any fluid in the pericardium (the sac around the heart) or fluid surrounding the lungs. 
++ Required room: ICU room / Trauma center 
++ Required equipment: FAST usg
+
+### Urine analysis - sampling
+Sampling of mid-stream urine from a patient, or from a patient's catheter. 
++ Required room: Histology Lab Sampling: Emergency dpt / General Surgery dpt / Internal Medicine dpt / Cardiology dpt / ICU 
++ Required equipment: Glassware + Lab analyzer
+
+### Urine analysis - testing
+Biochemical analysis of a urine sample. 
++ Required room: Histology Lab
+
+### USG
+Ultrasonography is a medical imaging technique using ultrasound waves, resulting in visualization of both soft and hard tissues and organs. 
++ Required room: Sonography unit at General Surgery dpt / Orthopaedy dpt / Cardiology / Radiology
+
+### X-ray back
+X-ray imaging of the bones of the back. 
++ Required room: X-ray room
+
+### X-ray chest
+X-ray imaging of the bones and shadows of the thorax. 
++ Required room: X-ray room
+
+### X-ray head
+X-ray imaging of the bones of the skull. 
++ Required room: X-ray room
+
+### X-ray lower limb
+X-ray imaging of the bones of the lower limb. 
++ Required room: X-ray room
+
+### X-ray upper limb
+X-ray imaging of the bones the arm. 
++ Required room: X-ray room
+

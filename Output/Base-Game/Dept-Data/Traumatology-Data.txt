@@ -1,0 +1,20 @@
+Traumatology
+Total Diagnoses: 35 | Serious: 30 | Fatal: 18
+
+Deciding Exams:
+FAST: 9
+Physical examination: 2
+CT: 5
+Evaluation: 16
+MRI: 2
+Biopsy - testing: 1
+
+Urgent Exams:
+FAST: 39
+Interview: 53
+Heart monitoring: 20
+Pulse oxymetry: 22
+CT: 18
+MRI: 7
+Physical examination: 26
+Temperature measurement: 4

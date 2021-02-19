@@ -1,0 +1,26 @@
+Infectious-Diseases
+Total Diagnoses: 65 | Serious: 50 | Fatal: 1
+
+Deciding Exams:
+Serologic testing: 17
+PCR - testing: 18
+ELISA testing: 6
+Biopsy - testing: 1
+RT-PCR testing: 12
+Microbial cultivation: 6
+Blood test: 2
+Stool analysis: 1
+CSF analysis: 2
+
+Urgent Exams:
+Interview: 42
+Serologic testing: 6
+Heart monitoring: 6
+ELISA testing: 5
+Biopsy - testing: 1
+Blood analysis - ICU: 5
+Physical examination: 24
+PCR - testing: 10
+RT-PCR testing: 7
+Microbial cultivation: 2
+CSF analysis: 1

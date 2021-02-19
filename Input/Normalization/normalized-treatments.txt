@@ -1,0 +1,414 @@
+isolation hospitalization
+doxycycline
+intravenous doxycycline
+minocycline
+chloramphenicol
+azithromycin
+IM antibiotics
+complex antiviral therapy
+an experimental serum
+antimalarial medication
+IV passive immunotherapy
+antisense therapy
+vancomycin
+fluconazole
+nitazoxanide
+oseltamivir
+ciprofloxacin
+intravenous ciprofloxacin
+supportive therapy
+rabies immunoglobulin
+interferon alpha-2b
+burn unit hospitalization
+antivenom
+concentrated oxygen
+warmed iv fluids
+protective dressing
+debridement
+burn management
+a splenectomy
+hepatoplasty
+gastric perforation repair
+small bowel resection
+bowel resection
+pancreaticoplasty
+thoracic trauma surgery
+upper limb trauma surgery
+lower limb trauma surgery
+laparoscopic pyeloplasty
+trauma fracture surgery of the arm
+trauma fracture surgery of the leg
+trauma fracture surgery of the thorax
+vascular surgery
+pulmonary surgery
+blood component therapy
+foreign object removal
+thoracentesis
+MIEP
+mannitol doses
+hydroxyurea
+botulinum antitoxin
+A1AT replacement
+abdominal surgery
+ACE inhibitors
+analgesics
+antacids
+anti-inflammatory cream
+anti-seizure medication
+antiarrhythmics
+antibiotic ointment
+antibiotics
+antidepressants
+antidiarrheals
+antifungal ointment
+antihemorrhagics
+antihistamines
+antihypertensive medication
+anticholinergics
+antimycotics
+antiparasitic drugs
+antipsychotics
+antipyretics
+antiseptics
+anthelmintic medication
+antithyroid medication
+cough suppressants
+antivirals
+anxiolytics
+an arm cast
+an arm orthosis
+artificial ventilation
+band ligation
+bandage
+B-complex supplement
+beta blockers
+blood transfusion
+bone strengthening pills
+Boston brace
+bronchodilators
+cardiovascular surgery
+closed reduction
+anticoagulants
+an ice wrap
+compression wraps
+corticosteroid injections
+corticosteroids
+craniotomy
+defibrillation
+desmopressin
+dialysis
+diet modification
+diuretics
+recommendations
+ear drops
+elbow pad
+emergency care
+endoscopic cauterization
+endoscopic surgery
+ethanol treatment
+exercise
+eye drops
+eye surgery
+foot cream
+fracture surgery of the arm
+fracture neurosurgery of the head
+fracture surgery of the leg
+hip replacement surgery
+home treatment
+HDU hospitalization
+ICU hospitalization
+regular hospitalization 
+observation
+TC hospitalization
+chelation therapy
+vitamin-D supplement
+incision and drainage
+an induced coma
+insulin therapy
+interferon alpha-2B
+IV antibiotics
+IV atropine
+IV calcium gluconate
+IV corticosteroids
+IV immunoglobulin
+IV infusion
+IV nutrition
+iron supplements
+joint surgery of the arm
+joint surgery of the leg
+laparoscopic surgery
+a leg cast
+a leg orthosis
+life support
+liver medication
+mucolytics
+nasal drops
+nitrates
+NSAIDs
+numbing ointment
+osteomyelitis surgery
+oxygen therapy
+pericardiocentesis
+PERT
+plasmapheresis
+a platelet transfusion
+a pressure bandage
+proliferation therapy
+proton pump inhibitors
+pulmonary surgery
+purgatives
+rabies immunoglobulin
+EMS
+rehydration
+renal vascular surgery
+replantation
+rest
+RICE
+saline nasal spray
+shock wave lithotripsy
+sleeping drugs
+spasmolytics
+stapedectomy
+steroid cream
+stomachics
+synthetic thyroid hormones
+thrombolytics
+IV TPA
+tranquilizers
+triple therapy treatment
+vasodilators
+vitamin supplementation
+VP shunting
+wound closure
+fracture surgery of the head
+imiquimod cream
+photodynamic therapy
+wide local excision (WLE)
+oncology patient advice
+targeted therapy
+chemotherapy
+laparoscopic surgery
+a pulmonary lobectomy
+endovascular embolization
+immunotherapy
+nerve reconstructive surgery
+an epinephrine autoinjector
+a polypectomy
+a colectomy
+an adrenalectomy
+mitotane
+spironolactone
+an octreotide injection
+active monitoring
+intensive hyper-CVAD therapy
+a splenectomy
+G-CSF drugs
+IV methotrexate
+IV alemtuzumab
+BRAF inhibitors
+tamoxifen
+a partial mastectomy
+hypertonic saline
+incision and drainage
+surgical debulking
+a gross-total resection craniotomy
+estradiol cream
+a unilateral salpingo-oophorectomy
+a radical prostatectomy
+hormone therapy
+parathyroidectomy
+R-CHOP chemotherapy
+rituximab
+gemcitabine
+POC combination treatment
+a segmentectomy
+FEP combination treatment
+an anti-acneic
+an estradiol-progesterone capsule
+anti-diabetic drug
+anti-androgens
+progestogen
+estrogen replacement therapy
+medical care
+potassium salt
+moisturizer cream
+glucose infusion
+hydrocortisone
+an autograft
+an allograft
+iron chelators
+sclerotherapy
+immunosuppressive drugs
+IV PPI
+endovascular embolization
+functional endoscopic sinus surgery
+papilloma removal surgery
+carbon dioxide laser surgery
+vocal therapy
+saline nasal spray
+the use of a continuous positive airway pressure machine
+corticosteroid nasal spray
+bronchoscopic therapy
+intravenous antifungal medication
+functional endoscopic sinus surgery
+tympanoplasty
+papilloma removal surgery
+vestibular nerve section surgery
+neck dissection surgery
+ear reconstruction surgery
+an adenoidectomy
+laryngotracheal reconstruction surgery
+carbon dioxide laser surgery
+septoplasty
+face reconstruction
+nerve reconstructive surgery
+sleep observation
+vocal therapy
+active monitoring
+saline nasal spray
+the usage of a continuous positive airway pressure machine
+a massage
+corticosteroid nasal spray
+the use of chewing gum and yawning
+the removal of an object
+antacids
+intubation
+chemotherapy
+epinephrine autoinjector
+incision and drainage
+IV antihistamines
+a mastoidectomy
+immunoglobulin infusions
+anti-acneics
+estradiol-progesterone capsules
+anti-diabetic drugs
+anti-androgens
+progestogen
+estrogen replacement therapy
+HRT
+hormone therapy
+a pessary
+tocolytics
+high-intensity focused ultrasound
+medical care
+oxytocin
+vacuum aspiration
+perineo-sphincter rehabilitation
+a salpingotomy
+detorsion and cystectomy
+a cystectomy
+drainage
+peritoneal cleansing
+a Cesarean section
+endoscopic cauterization
+surgical resection
+a hysterectomy
+a lumpectomy
+tubal sterilization
+chirurgical abscess incision and drainage
+anticoagulants
+imiquimod cream
+photodynamic therapy
+a wide local excision (WLE)
+oncology patient advice
+targeted therapy
+chemotherapy
+laparoscopic surgery
+a pulmonary lobectomy
+endovascular embolization
+immunotherapy
+nerve reconstructive surgery
+epinephrine autoinjector
+a polypectomy
+a colectomy
+an adrenalectomy
+mitotane
+spironolactone
+octreotide injection
+active monitoring
+intensive hyper-CVAD therapy
+a splenectomy
+G-CSF drugs
+IV methotrexate
+IV alemtuzumab
+BRAF inhibitors
+tamoxifen
+a partial mastectomy
+hypertonic saline
+incision and drainage
+surgical debulking
+a gross-total resection craniotomy
+estradiol cream
+an unilateral salpingo-oophorectomy
+a radical prostatectomy
+hormone therapy
+parathyroidectomy
+R-CHOP chemotherapy
+rituximab
+gemcitabine
+POC combination treatment
+a segmentectomy
+FEP combination treatment
+ammonul
+lactulose
+a hepatectomy
+liver transplant surgery
+immunosuppressive drugs
+a parotidectomy
+augmentation mammoplasty
+nerve reconstructive surgery
+corrective surgery
+scar revision surgery
+breast implant removal
+a capsulectomy
+incision and drainage
+suction assisted lipectomy (SAL)
+rhinoplasty
+eye muscle surgery
+emergency surgery
+enucleation of the eye
+follicular unit transplantation
+replantation
+watching and waiting
+trimethoprim-sulfamethoxazole
+compression garment
+intravenous lipid emulsion
+botulinum toxin
+atropine eye drops
+an eye patch
+corticosteroid eye drops
+an alpha hydroxy acid peel
+sclerotherapy
+skin laser therapy
+enzyme injections (CCH)
+corticosteroid injections
+cryosurgery
+hyaluronic acid filler
+insecticide cream
+antiretroviral medication
+antiviral medication
+cryotherapy
+antibiotics
+HPV support
+PrEP
+Viagra
+shock wave lithotripsy
+orchiopexy
+orchiectomy
+selective α1-blockers
+5α-reductase inhibitors
+transurethral resection of the prostate
+PDE5 inhibitors
+kidney transplantation
+immunosuppressiva
+dialysis
+admission to the dialysis ward
+dialysis
+a vasectomy
+a partial nephrectomy
+a radical nephrectomy
+a radical nephrectomy with inferior vena cava thrombectomy
+a urinary catheter
+bladder surgery
+transvaginally repair
+kidney surgery

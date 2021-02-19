@@ -1,0 +1,306 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_TREATMENTS">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+		<!-- Treatments -->
+	<!-- Surgery -->
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FESS</LocID>                                    	
+	<Text>Functional Endoscopic Sinus Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FESS_DESCRIPTION</LocID>                        	
+	<Text>Functional endoscopic sinus surgery (FESS) is a minimally invasive surgical treatment which uses nasal endoscopes to enlarge the nasal drainage pathways of the paranasal sinuses to improve sinus ventilation. This procedure is generally used to treat inflammatory and infectious sinus diseases, including chronic rhinosinusitis that doesn't respond to drugs, nasal polyps, some cancers, and decompression of eye sockets/optic nerve in Graves ophthalmopathy. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_TYPT</LocID>                                    	
+	<Text>Tympanoplasty</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_TYPT_DESCRIPTION</LocID>                        	
+	<Text>Tympanoplasty, also called eardrum repair, refers to surgery performed to reconstruct a perforated tympanic membrane (eardrum) or the small bones of the middle ear. Eardrum perforation may result from chronic infection or, less commonly, from trauma to the eardrum. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      <!-- New -->
+	<LocID>TRT_OTOR_PRS</LocID>                                    	
+	<Text>Papilloma Removal Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- New -->
+	<LocID>TRT_OTOR_PRS_DESCRIPTION</LocID>                        	
+	<Text>Papilloma Removal Surgery is a removal of papillomas (Tumour like growths caused by HPV) to prevent or treat existing conditions.  \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      <!-- New -->
+	<LocID>TRT_OTOR_VNS</LocID>                                    	
+	<Text>Vestibular nerve section surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!--  New --> 
+	<LocID>TRT_OTOR_VNS_DESCRIPTION</LocID>                        	
+	<Text>A vestibular nerve section describes the process of cutting the vestibular part of the cochleovestibular cranial nerve. This is generally done in an attempt to eliminate recurrent attacks of vertigo. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      <!-- New -->
+	<LocID>TRT_OTOR_NDS</LocID>                                    	
+	<Text>Neck Dissection Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!--  New --> 
+	<LocID>TRT_OTOR_NDS_DESCRIPTION</LocID>                        	
+	<Text>The neck dissection is a surgical procedure for control of neck lymph node metastasis from squamous cell carcinoma (SCC) of the head and neck. The aim of the procedure is to remove lymph nodes from one side of the neck into which cancer cells may have migrated. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_ERCS</LocID>                                    	
+	<Text>Ear Reconstruction Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_ERCS_DESCRIPTION</LocID>                        	
+	<Text>Ear reconstruction is a form of surgery that can rebuild an ear damaged by trauma or cancer surgery, or misshapen or missing due to a congenital (present at birth) disorder. Along with surgery to rebuild or repair the ear, hearing rehabilitation with an otologist may be necessary. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_ADNO</LocID>                                    	
+	<Text>Adenoidectomy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_ADNO_DESCRIPTION</LocID>                        	
+	<Text>Adenoidectomy is a surgical procedure performed to remove the adenoids. Adenoids are a mass of lymphoid tissue located behind the nasal passages. All surgical procedures have risks and potential complications. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_LOTS</LocID>                                    	
+	<Text>Laryngotracheal Reconstruction Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_LOTS_DESCRIPTION</LocID>                        	
+	<Text>Laryngotracheal reconstruction surgery widens your windpipe (trachea) to make breathing easier. Laryngotracheal reconstruction involves inserting a small piece of cartilage — stiff connective tissue found in many areas of your body — into the narrowed section of the windpipe to make it wider. Children most commonly experience problems with a narrowed windpipe, although the problem can also occur in adults. It can occur for many reasons, including injury, infection, stomach acid reflux, a birth defect or as the result of the insertion of a breathing tube. An adult's windpipe can become narrowed for the same reasons, but the cause may also be a disease that causes blood vessel or tissue inflammation, such as Wegener's granulomatosis or sarcoidosis.The goal of laryngotracheal reconstruction is to provide a safe and stable airway without the use of assistance from a breathing tube. In people who already have a tracheostomy tube to help them breathe, this procedure often makes it possible to get rid of the tracheostomy.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_CDLS</LocID>                                    	
+	<Text>Carbon Dioxide Laser Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_CDLS_DESCRIPTION</LocID>                        	
+	<Text>The carbon dioxide laser (CO2 laser) was one of the earliest gas lasers to be developed. It was invented by Kumar Patel of Bell Labs in 1964, and is still one of the most useful. Carbon dioxide lasers are the highest-power continuous wave lasers that are currently available. They are also quite efficient: the ratio of output power to pump power can be as large as 20%. The CO2 laser produces a beam of infrared light with the principal wavelength bands centering on 9.4 and 10.6 micrometers .</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_SPTP</LocID>                                    	
+	<Text>Septoplasty</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_SPTP_DESCRIPTION</LocID>                        	
+	<Text>Septoplasty (SEP-toe-plas-tee) is a surgical procedure to straighten the bone and cartilage dividing the space between your two nostrils (septum). When the septum is crooked, it's known as a deviated septum. A deviated septum can make it harder to breathe through your nose and can increase the risk of sinus infections due to poor drainage.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FRS</LocID>                                    	
+	<Text>Face Reconstruction</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FRS_DESCRIPTION</LocID>                        	
+	<Text>Facial reconstruction surgery is used to restore a person's appearance to a relatively normal condition after a traumatic injury or event that has severely damaged a person's face and appearance. Such an injury may remove part or all of the face.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- CRP -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Nerve Reconstructive Surgery</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>Nerve Reconstructive Surgery, or surgical nerve repair involves exploration of the injured nerve and removal of injured tissue or scar from the nerve endings. After that, a nerve can be directly reconnected if there is enough length on the ends to allow for a good quality repair without tension. \n\nRequired room: Operating room at Neurology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+   <!-- HOSPITALISATION -->
+   
+    <GameDBLocalizedString>      
+	<LocID>TRT_JM_HOSPITALISATION_SLEEP_LAB</LocID>                                    	
+	<Text>Sleep Observation</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_HOSPITALISATION_SLEEP_LAB_DESCRIPTION</LocID>                        	
+	<Text>Sleep Observation or also known as Polysomnography records your brain waves, the oxygen level in your blood, heart rate and breathing, as well as eye and leg movements during the study. Polysomnography is usually done at a sleep disorders unit within a hospital or at a sleep center. The test records your nighttime sleep patterns.</Text>  
+	</GameDBLocalizedString>
+	 
+   <!-- Treatments -->
+   <!-- Sprays, a course of therapy and pills -->
+	 
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY</LocID>                                    	
+	<Text>Vocal Therapy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY_DESC</LocID>                        	
+	<Text>Voice therapy is a program designed to reduce hoarseness through guided change in vocal behaviors and lifestyle changes. Voice therapy consists of a variety of tasks designed to eliminate harmful vocal behavior, shape healthy vocal behavior, and assist in vocal fold wound healing after surgery or injury.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Incision and drainage and clinical lancing are minor surgical procedures to release fuild or pressure built up under the skin. \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <!-- NEW -->
+	<LocID>TRT_JM_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Active Monitoring</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- NEW -->
+	<LocID>TRT_JM_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>Active monitoring is when the oncologist recommends no treatment but monitors the patient's health with regular check-ups and blood tests. This is sometimes called “careful monitoring” or “watch and wait”. \n\nRequired room: Any Oncology office</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY</LocID>                        	
+	<Text>Saline nasal spray</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>A nasal spray that rinse the nasal cavities and increases ventilation through the nose. \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP</LocID>                        	
+	<Text>Continuous positive airway pressure machine</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP_DESC</LocID>                                    	
+	<Text>CPAP is an effective treatment for moderate to severe obstructive sleep apnea.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_MASSAGE</LocID>                        	
+	<Text>Massage</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+	<LocID>TRT_JM_MASSAGE_DESC</LocID>                                    	
+	<Text>Massage is the manipulation of the body's soft tissues. Massage techniques are commonly applied with hands, fingers, elbows, knees, forearms, feet, or a device. The purpose of massage is generally for the treatment of body stress or pain.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>       
+	<LocID>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</LocID>                        	
+	<Text>Corticosteroid nasal spray</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_CORTICOSTEROID_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>Steroid nasal sprays, also called corticosteroid nasal sprays, are anti-inflammatory medicines that you spray into your nose.They can be used to treat a range of conditions, including hay fever, sinusitis, non-allergic rhinitis and nasal polyps.Some steroid nasal sprays are available to buy from pharmacies and shops, while others are only available on prescription. Steroid nasal drops are also available. \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_CHEWING_GUM_OR_YAWN</LocID>                        	
+	<Text>Chewing Gum and Yawning</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CHEWING_GUM_OR_YAWN_DESC</LocID>                                    	
+	<Text>Chewing Gum and Yawning can help open up the Eustachian tube to relieve pressure within the ears \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      <!-- New -->
+	<LocID>TRT_JM_OBJECT_REMOVAL</LocID>                        	
+	<Text>Object Removal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>       <!-- New -->
+	<LocID>TRT_JM_OBJECT_REMOVAL_DESC</LocID>                                    	
+	<Text>Object Removal from parts of the body \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS</LocID>                        	
+	<Text>Antacids</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS_DESC</LocID>                                    	
+	<Text>Antacids are substances that neutralize stomach acid, used to relieve heartburn, indigestion or reflux.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	
+   <!-- Intubation and Intravenous Infusions -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION</LocID>                        	
+	<Text>Intubation</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION_DESC</LocID>                                    	
+	<Text>Intubation is the process of inserting a tube, called an endotracheal tube (ET), through the mouth and then into the airway. This is done so that a patient can be placed on a ventilator to assist with breathing during anesthesia, sedation, or severe illness.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>   <!-- CRP -->   
+	<LocID>TRT_JM_CHEMOTHERAPY</LocID>                                    	
+	<Text>Chemotherapy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>Chemotherapy is a type of cancer treatment that uses one or more anti-cancer drugs as part of a standardized chemotherapy regimen. Chemotherapy may be given with a curative intent, or it may aim to prolong life or to reduce symptoms. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    <!-- CRP -->  
+	<LocID>TRT_JM_EPIPEN</LocID>                                    	
+	<Text>Epinephrine Autoinjector</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- CRP -->
+	<LocID>TRT_JM_EPIPEN_DESC</LocID>                        	
+	<Text>An epinephrine autoinjector is a medical device for injecting a measured dose or doses of epinephrine by means of autoinjector technology. It is most often used for the treatment of anaphylaxis. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Incision and drainage</Text>  
+	</GameDBLocalizedString>
+	
+  <!-- Obselete -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>                        	
+	<Text>IV Antihistamines</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESC</LocID>                                    	
+	<Text>Intravenous (IV) supplement of antihistamine. \n\nRequired room: Any office / ward / unit</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString> 
+	<LocID>TRT_OTOR_MTDY</LocID>                                    	
+	<Text>Mastoidectomy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_MTDY_DESCRIPTION</LocID>                        	
+	<Text>A mastoidectomy is a surgical procedure that removes diseased mastoid air cells. The mastoid is the part of your skull located behind your ear. It's filled with air cells made of bone and looks like a honey comb. The diseased cells are often the result of an ear infection that has spread into your skull. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

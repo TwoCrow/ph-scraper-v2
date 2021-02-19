@@ -1,0 +1,766 @@
+<Database>
+
+	<GameDBSymptom ID="SYM_KN_SWOLLENTESTIS_WP">
+        <DescriptionLocID>SYM_KN_SWOLLENTESTIS_WP_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		<WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+        
+		<Examinations>
+		    <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+		
+		<Treatments>
+            <TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+        
+		<ShameLevel>90</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        
+		<IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_SWOLLENTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_SWOLLENTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_SWOLLENTESTIS_WPT">
+        <DescriptionLocID>SYM_KN_SWOLLENTESTIS_WPT_DESC</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+		    <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+		
+		<Treatments>
+            <TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+        
+		<ShameLevel>90</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        
+		<IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_SWOLLENTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_SWOLLENTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	 
+	<GameDBSymptom ID="SYM_KN_TESTICULARINFARCTION">
+        <DescriptionLocID>SYM_KN_TESTICULARINFARCTION_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		<WalkAnimSuffix>_limp</WalkAnimSuffix>
+        <WalkSpeedModifier>0.5</WalkSpeedModifier>
+        
+		<Examinations>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+		
+		<Treatments>
+            <TreatmentRef>TRT_KN_ORCHIECTOMY</TreatmentRef>
+        </Treatments> 
+		
+		<CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_LOW</CollapseProcedureRef>       
+		<ShameLevel>50</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_TSINF_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_TSINF_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_HIGHRIDINGTESTIS">
+        <DescriptionLocID>SYM_KN_HIGHRIDINGTESTIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+        
+		<ShameLevel>95</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_HIGHTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_HIGHTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_ABNORMALLIETESTIS">
+        <DescriptionLocID>SYM_KN_ABNORMALLIETESTIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+        
+		<ShameLevel>95</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_ABNTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_ABNTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_SWOLLENSCROTUM">
+        <DescriptionLocID>SYM_KN_SWOLLENSCROTUM_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+		
+		<Treatments>
+            <TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+        
+		<ShameLevel>95</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_SCR_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_SCR_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_SUDDENPAINSCROTUM">
+        <DescriptionLocID>SYM_KN_SUDDENPAINSCROTUM_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations>
+		
+		<Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>		
+        </Treatments>
+        
+		<ShameLevel>90</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_SCR_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_SCR_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_ABCREMASCTICREFLEX">
+        <DescriptionLocID>SYM_KN_ABCREMASCTICREFLEX_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        
+		<ShameLevel>80</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_ABCREMRFLX_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_ABCREMRFLX_1</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_CREMASCTICREFLEX">
+        <DescriptionLocID>SYM_KN_CREMASCTICREFLEX_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations>
+        
+		<ShameLevel>80</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_CREMRFLX_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_CREMRFLX_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_HARD_TESTIS">
+        <DescriptionLocID>SYM_KN_HARD_TESTIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+		    <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+        
+		<ShameLevel>90</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        
+		<IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_SWOLLENTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_SWOLLENTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_LUMPTS">
+        <DescriptionLocID>SYM_KN_LUMPTS_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations>
+        
+		<ShameLevel>95</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_LUMPTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_LUMPTS_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_ALFAPRO">
+        <DescriptionLocID>SYM_KN_ALFAPRO_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+        
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_MARKERSTM_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_MARKERSTM_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_BETAHCG">
+        <DescriptionLocID>SYM_KN_BETAHCG_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+        
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_MARKERSTM_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_MARKERSTM_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_TSTM">
+        <DescriptionLocID>SYM_KN_TSTM_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+        </Examinations> 
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_DIA_CANTS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_CANTS_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_HVSC">
+        <DescriptionLocID>SYM_KN_HVSC_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+        </Examinations> 
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_HEAVYSC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_HEAVYSC_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_ENLSM_PRO_1">
+        <DescriptionLocID>SYM_KN_ENLSM_PRO_1_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_CRP_DRE_EXAM</ExaminationRef>
+        </Examinations> 
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_DIA_BPH_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_BPH_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_DHT">
+        <DescriptionLocID>SYM_KN_DHT_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations>
+		
+		<Treatments>
+            <TreatmentRef>TRT_KN_5A_REDUCTASE_INHIBITORS</TreatmentRef>
+        </Treatments>
+        
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1511</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_DHT_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_DHT_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_ENLSM_PRO_2">
+        <DescriptionLocID>SYM_KN_ENLSM_PRO_2_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_CRP_DRE_EXAM</ExaminationRef>
+        </Examinations> 
+		
+		<Treatments>
+            <TreatmentRef>TRT_KN_ALPHA_BLOCKERS</TreatmentRef>
+        </Treatments> 
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_DIA_BPH_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_BPH_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_RETRO_EJAC">
+        <DescriptionLocID>SYM_KN_RETRO_EJAC_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations> 
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_DIA_BPH_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_BPH_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_EREC_DYS">
+        <DescriptionLocID>SYM_KN_EREC_DYS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations> 
+		
+		<Treatments>
+            <TreatmentRef>TRT_KN_PDE5_INHIBITORS</TreatmentRef>
+        </Treatments>
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_ED_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_ED_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_URIN_INCO">
+        <DescriptionLocID>SYM_KN_URIN_INCO_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations> 
+			
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1599</IconIndex>
+
+	</GameDBSymptom> 
+	
+	<GameDBSymptom ID="SYM_KN_SWOLLENEPIDIDYMIS">
+        <DescriptionLocID>SYM_KN_SWOLLENEPIDIDYMIS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_KN_TESTIS_PALP</ExaminationRef>
+        </Examinations> 
+		
+		<Treatments>
+            <TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+			
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1587</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_SWOLEPI_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_SWOLEPI_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_INGUINAL_LYMPH_NODES">
+        <DescriptionLocID>SYM_SWOLLEN_LYMPH_NODES_DESCRIPTION</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>5</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1387</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_PENIS_DISCHARGE">
+        <DescriptionLocID>SYM_KN_PENIS_DISCHARGE_DESC</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+       
+	   <Examinations>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+			<ExaminationRef>EXM_BACTERIA_CULTIVATION_TESTING</ExaminationRef>
+       	   </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
+        </Treatments>
+        <ShameLevel>90</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1387</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_ED_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_ED_2</CustomIconSmallAssetRef>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_IMMUN_REACT">
+        <DescriptionLocID>SYM_KN_IMMUN_REACT_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+       
+	    <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+       	</Examinations>
+        
+		<Treatments>
+            <TreatmentRef>TRT_KN_IMMUNO_SUPRES</TreatmentRef>
+        </Treatments>
+		
+		<RiskOfCollapseStartHours>2</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_KN_ACUTE_ORG_REJEC</CollapseSymptomRef>
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1749</IconIndex>           <!-- replace with own icon-->	
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_ACUTE_ORG_REJEC">
+        <DescriptionLocID>SYM_KN_ACUTE_ORG_REJEC_DESC</DescriptionLocID>
+        <DiscomfortLevel>High</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>High</Hazard>
+        <PatientMobility>IMOBILE</PatientMobility>
+       
+	    <Examinations>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+       	</Examinations>
+       
+	    <Treatments>
+            <TreatmentRef>TRT_KN_IMMUNO_SUPRES</TreatmentRef>
+        </Treatments>
+		
+		<CollapseProcedureRef>CONTROL_PROCEDURE_COLLAPSE_MEDIUM</CollapseProcedureRef>
+		<RiskOfCollapseStartHours>1</RiskOfCollapseStartHours>
+		<RiskOfCollapseEndHours>48</RiskOfCollapseEndHours>
+		<CollapseSymptomRef>SYM_COMA</CollapseSymptomRef>
+        
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1749</IconIndex>			<!-- replace with own icon-->	
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_NEEDS_UROLOGY">
+        <DescriptionLocID>SYM_KN_NEEDS_UROLOGY_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_EVALUATION</ExaminationRef>
+        </Examinations> 
+			
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1587</IconIndex> 
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_URNEEDS_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_URNEEDS_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_UNPL_ODOR">
+        <DescriptionLocID>SYM_KN_UNPL_ODOR_DESC</DescriptionLocID>
+        <DiscomfortLevel>Low</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Low</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+       
+	    <Examinations>
+            <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+       	</Examinations>
+        
+		<ShameLevel>90</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>2102</IconIndex>			<!-- replace with own icon-->	
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_RCC_7">
+        <DescriptionLocID>SYM_KN_RCC_7_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations> 
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_RCC_8">
+        <DescriptionLocID>SYM_KN_RCC_8_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+			<ExaminationRef>EXM_MRI</ExaminationRef>
+        </Examinations> 
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1499</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_DIA_RCC_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_DIA_RCC_2</CustomIconSmallAssetRef>
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_FLANK_PAIN">
+        <DescriptionLocID>SYM_KN_FLANK_PAIN_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+			<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations> 
+		
+		<Treatments>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef>
+        </Treatments>
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1459</IconIndex>		
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_ABDOMINAL_MASS">
+        <DescriptionLocID>SYM_KN_ABDOMINAL_MASS_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+        </Examinations> 
+		
+		 <Treatments>
+            <TreatmentRef>TRT_NSAIDS</TreatmentRef>
+        </Treatments>
+		
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1559</IconIndex>		
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_DEPR_ERYTHR">
+        <DescriptionLocID>SYM_KN_DEPR_ERYTHR_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_BLOOD_TEST_TESTING</ExaminationRef>
+        </Examinations> 
+			
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1559</IconIndex>	
+
+		<CustomIconBigAssetRef>ASSET_UR_SYM_MARKERSTM_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_MARKERSTM_2</CustomIconSmallAssetRef>		
+	</GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_UR_HYPERCALCEMIA"> 
+        <DescriptionLocID>SYM_UR_HYPERCALCEMIA_DESC</DescriptionLocID> 
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+		
+        <Examinations>
+		    <ExaminationRef>EXM_CRP_MINERALT_TEST</ExaminationRef>
+        </Examinations>
+		
+		<Treatments>
+			<TreatmentRef>TRT_INTRAVENOUS_INFUSION</TreatmentRef>
+		</Treatments>
+		
+        <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+		
+		<CustomIconBigAssetRef>ASSET_CRP_SYM_ICON_051</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_CRP_SYM_ICON_052</CustomIconSmallAssetRef>
+		
+        <IconIndex>1</IconIndex>		
+    </GameDBSymptom>
+	
+	 <GameDBSymptom ID="SYM_KN_RCC_INF_VENACAVA">
+        <DescriptionLocID>SYM_KN_RCC_INF_VENACAVA_DESC</DescriptionLocID>
+        <DiscomfortLevel>None</DiscomfortLevel>
+        <PatientComplains>false</PatientComplains>
+        <Hazard>High</Hazard>
+       
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+            <ExaminationRef>EXM_ANGIOGRAPHY</ExaminationRef>
+        </Examinations>
+       
+		<Treatments>
+            <TreatmentRef>TRT_KN_RADNEPH_INFVECA</TreatmentRef>
+        </Treatments>
+       
+	   <ShameLevel>0</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1505</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_BLOODY_URINE">
+        <DescriptionLocID>SYM_KN_BLOODY_URINE_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_TESTING</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_KN_URN_CATH</TreatmentRef>
+        </Treatments>
+        <ShameLevel>50</ShameLevel>
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1579</IconIndex>
+    </GameDBSymptom>
+	
+	<GameDBSymptom ID="SYM_KN_URIN_INCO_VAG">
+        <DescriptionLocID>SYM_KN_URIN_INCO_VAG_DESC</DescriptionLocID>
+        <DiscomfortLevel>Medium</DiscomfortLevel>
+        <PatientComplains>true</PatientComplains>
+        <Hazard>Medium</Hazard>
+        <PatientMobility>MOBILE</PatientMobility>
+        
+		<Examinations>
+			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+        </Examinations> 
+			
+        <IsMainSymptom>false</IsMainSymptom>
+        <IconIndex>1599</IconIndex>
+		
+		<CustomIconBigAssetRef>ASSET_UR_SYM_URIVAG_1</CustomIconBigAssetRef>
+        <CustomIconSmallAssetRef>ASSET_UR_SYM_URIVAG_2</CustomIconSmallAssetRef>
+
+	</GameDBSymptom> 
+	
+	
+	
+	
+	
+	<!-- ====================================== Tumors ========================================= -->
+	
+</Database>

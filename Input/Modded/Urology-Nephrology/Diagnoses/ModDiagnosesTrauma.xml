@@ -1,0 +1,129 @@
+﻿<Database>
+
+  <!-- Kidney contusion - blunt -->
+    <GameDBMedicalCondition ID="TRM_KCB">
+        <AbbreviationLocID>TRM_KCB_DESCRIPTION</AbbreviationLocID>
+        <Duration>4</Duration>
+        <OccurrenceRef>OCCURRENCE_KN_UNCOMMON</OccurrenceRef>
+        <Symptoms>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_BACK_INJURY</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>50</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_BACK_PAIN</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>50</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_NAUSEA</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>60</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_VOMITING</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>70</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_HEMATURIA</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>30</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SPASMS</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_BLUNT_KIDNEY_CONTUSION</GameDBSymptomRef>
+            </GameDBSymptomRules>
+        </Symptoms>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING</ExaminationRef>
+            <ExaminationRef>EXM_CT</ExaminationRef>
+            <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_EMERGENCY_CARE</TreatmentRef>
+            <TreatmentRef>TRT_HOSPITALIZATION_NORMAL</TreatmentRef>
+            <TreatmentRef>TRT_INTRAVENOUS_NUTRITION</TreatmentRef>
+            <TreatmentRef>TRT_STOMACHICS</TreatmentRef>
+            <TreatmentRef>TRT_ANALGESICS</TreatmentRef> <!--ADDITIONAL-->
+            <TreatmentRef>TRT_SPASMOLYTICS</TreatmentRef> <!--ADDITIONAL-->
+        </Treatments>
+        <IconIndex>1127</IconIndex>
+        <DepartmentRef>DPT_URKN</DepartmentRef>
+        <InsurancePayment>1500</InsurancePayment>
+        <Tags>
+            <Tag>trauma</Tag>
+        </Tags>
+    </GameDBMedicalCondition>
+
+	<!-- Kidney laceration - penetrating -->
+    <GameDBMedicalCondition ID="TRM_KLP">
+        <AbbreviationLocID>TRM_KLP_DESCRIPTION</AbbreviationLocID>
+        <Duration>4</Duration>
+        <OccurrenceRef>OCCURRENCE_KN_VERYRARE</OccurrenceRef>
+        <Symptoms>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_BACK_INJURY</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_SEVERE_HEMORRHAGE</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>50</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_HYPOVOLEMIC_SHOCK</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>50</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_ABDOMINAL_GUARDING</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <DayOfFirstOccurence>0</DayOfFirstOccurence>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_OPEN_WOUND</GameDBSymptomRef>
+            </GameDBSymptomRules>
+            <GameDBSymptomRules>
+                <ProbabilityPercent>100</ProbabilityPercent>
+                <GameDBSymptomRef>SYM_PENETRATING_KIDNEY_LACERATION</GameDBSymptomRef>
+            </GameDBSymptomRules>
+        </Symptoms>
+        <Examinations>
+            <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
+            <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
+            <ExaminationRef>EXM_ABDOMINAL_PALPATION</ExaminationRef>
+            <ExaminationRef>EXM_FAST</ExaminationRef>
+            <ExaminationRef>EXM_USG</ExaminationRef>
+            <ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
+        </Examinations>
+        <Treatments>
+            <TreatmentRef>TRT_HOSPITALIZATION_TRAUMA</TreatmentRef>
+            <TreatmentRef>TRT_EMERGENCY_CARE</TreatmentRef>
+            <TreatmentRef>TRT_PRESSURE_BANDAGE</TreatmentRef>
+            <TreatmentRef>TRT_BLOOD_TRANSFUSION</TreatmentRef>
+            <TreatmentRef>TRT_KN_TRM_NEPH</TreatmentRef>
+        </Treatments>
+        <IconIndex>1125</IconIndex>
+        <DepartmentRef>DPT_URKN</DepartmentRef>
+        <InsurancePayment>2300</InsurancePayment>
+        <Tags>
+            <Tag>trauma</Tag>
+        </Tags>
+    </GameDBMedicalCondition>	
+	
+	
+
+
+</Database>

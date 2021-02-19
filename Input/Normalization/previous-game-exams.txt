@@ -1,0 +1,201 @@
+Triage in the reception
+Abdominal palpation
+Angiography
+Audiometry
+Microbial sampling
+Microbial cultivation
+Barium swallow
+Basic visual test
+Biopsy - sampling
+Biopsy - testing
+Blood pressure measurement 
+Blood draw
+Blood test
+CBC - sampling
+CBC - testing
+Blood analysis - ICU
+Urgent Echo
+CRP
+CT
+CT - enterography
+Ear examination
+ECG
+EEG
+Echo
+EMG
+Evaluation
+FAST
+Elastase test - sampling
+Elastase test - testing
+Mycologic sampling
+Fungal cultivation
+Gastroscopy
+Gonioscopy
+Heart monitoring
+Chest auscultation
+Laryngoscopy
+MRI
+Nasal cavity inspection
+Neck palpation
+Neurological testing
+Ophthalmoscopy
+Oral cavity inspection
+PCR - sampling
+PCR - testing
+Perimetry
+Peritoneal fluid analysis - sampling
+Peritoneal fluid analysis - testing
+Physical examination
+Interview
+Serologic sampling
+Serologic testing
+Skin allergy test
+Speech listening
+CSF sampling
+CSF analysis
+Spirometry
+Stool collecting
+Stool analysis
+Sweat Chloride Test
+Temperature measurement
+Thorax percussion
+Tonometry
+Transient elastography
+PS blood control
+Urine analysis - sampling
+Urine analysis - testing
+USG
+X-ray back
+X-ray head
+X-ray lower limb
+X-ray chest
+X-ray upper limb
+Differential diagnosis
+RT-PCR sampling
+RT-PCR testing
+ELISA sampling
+ELISA testing
+Pulse oxymetry
+Catecholamine Blood Sampling
+Catecholamine Blood Test
+CA Blood Sampling
+CA Blood Test
+Colonoscopy
+Urine Antigen Screen Sampling
+Urine Antigen Screen Test
+Bone Marrow Biopsy Sample
+Bone Marrow Biopsy Test
+Flow Cytometry Sample
+Flow Cytometry Test
+(Oncology) CBC Sampling
+Blood Smear Sample
+Blood Smear Test
+Liver Function Test Sampling
+Liver Function Test
+F.I.S.H. Sampling
+F.I.S.H. Test
+In Vitro Staining Sampling
+In Vitro Staining Test
+Mammogram
+Fine Needle Aspiration Sample
+Fine Needle Aspiration Test
+Electron Microscopy Sample
+Electron Microscopy Test
+Pelvic Exam
+Digital Rectal Exam (DRE)
+Comprehensive Mineral Panel Sampling
+Comprehensive Mineral Panel Test
+Lymph Node Biopsy Sampling
+Lymph Node Biopsy Test
+Colonoscopy Biopsy Sampling
+Colonoscopy Biopsy Testing
+Breast examination
+Pelvic Sonography
+Pap smear sampling
+Pap smear testing
+OGTT sampling
+OGTT testing
+Scintigraphy
+ELISA
+ELISA - Test
+(CRP Version) Laryngoscopy
+(CRP Version) Ear examination
+Sputum Sampling 
+Sputum Culture
+Bronchoalveolar Lavage
+Bronchoalveolar Lavage Lab Testing
+Arthrocentesis
+Arthrocentesis Lab Testing
+(ENT version) Laryngoscopy
+(ENT version) Ear examination
+(ENT version) Audiometry
+Audiogram
+Polysomnograph
+(ENT version) Skin allergy test
+Sputum Sampling 
+Sputum Culture
+Tryptase test - Sampling 
+Tryptase test - Testing 
+Histamine test - Sampling 
+Histamine test - Testing 
+Gynecological examination
+Breast examination
+Pelvic Sonography
+Mammography
+VDRL-TPHA sampling
+VDRL-TPHA testing
+Pap smear sampling
+Pap smear testing
+OGTT sampling
+OGTT testing
+Catecholamine Blood Sampling
+Catecholamine Blood Test
+CA Blood Sampling
+CA Blood Test
+Colonoscopy
+Urine Antigen Screen Sampling
+Urine Antigen Screen Test
+Bone Marrow Biopsy Sample
+Bone Marrow Biopsy Test
+Flow Cytometry Sample
+Flow Cytometry Test
+(Oncology) CBC Sampling
+Blood Smear Sample
+Blood Smear Test
+Liver Function Test Sampling
+Liver Function Test
+F.I.S.H. Sampling
+F.I.S.H. Test
+In Vitro Staining Sampling
+In Vitro Staining Test
+Mammogram
+Fine Needle Aspiration Sample
+Fine Needle Aspiration Test
+Electron Microscopy Sample
+Electron Microscopy Test
+Pelvic Exam
+Digital Rectal Exam (DRE)
+Mineral Panel Sampling
+Mineral Panel Test
+Lymph Node Biopsy Sampling
+Lymph Node Biopsy Test
+(OBSOLETE) Test Removed
+(OBSOLETE) Test Removed
+(OBSOLETE) Test Removed
+(OBSOLETE) Test Removed
+(OBSOLETE) Test Removed
+(OBSOLETE) Test Removed
+Colonoscopy Biopsy Sampling
+Colonoscopy Biopsy Testing
+Liver Biopsy Sampling
+Liver Biopsy Testing
+Genital screening
+Genital screening analysis
+Genital swab
+Genital swab analysis
+Semen collection
+Semen collection analysis
+Groin examination
+Inguinal orchiectomy
+Testing the obtained testicle in inguinal orchiectomy
+Testis palpation
